@@ -1,4 +1,4 @@
-#SubNab ![SubNab icon](src/main/resources/SubNab.png)
+#SubNab ![SubNab icon](https://github.com/jurajzachar/SubNab/raw/master/src/main/resources/icons/SubNab.png)
 
 > __A simple SRT subtitles editor.__
 
@@ -17,5 +17,4 @@ v0.1.1
 
 ##Screenshot
 
-![SubNab screenshot](subnab-screenshot.png)
-
+![SubNab screenshot](https://github.com/jurajzachar/SubNab/raw/master/project/subnab-screenshot.png)

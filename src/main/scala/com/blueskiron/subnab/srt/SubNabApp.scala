@@ -58,6 +58,9 @@ import rx.lang.scala.schedulers.ComputationScheduler
 import java.nio.charset.Charset
 import org.slf4j.LoggerFactory
 import scala.collection.JavaConversions
+import java.awt.Image
+import javax.swing.ImageIcon
+import com.blueskiron.subnab.Meta
 
 /**
  * @author Juraj Zachar
@@ -70,7 +73,8 @@ class SubNabApp extends MainFrame {
   case object Delete extends CaptionOperation
 
   //== META stuff ==
-  val metaVersion = s"$$version"
+  val appIcon = new ImageIcon(getClass.getResource("/icons/SubNab.png"))
+  iconImage = appIcon.getImage
   val controller = new Controller(this)
 
   //== MENU ==
@@ -123,14 +127,15 @@ class SubNabApp extends MainFrame {
         val dialog = new Dialog {
           setLocationRelativeTo(captionAllArea)
           title = "About"
-          contents = new TextArea {
-            editable = false
-            text = s"""
-                SRT - Subtitles Editor               
-                version: $metaVersion                
-                
-                (c) Blue Skiron                
-              """
+          contents = new BoxPanel(Orientation.Horizontal) {
+            contents += new Label() {
+              icon = appIcon
+              peer.setSize(new Dimension(128, 128))
+            }
+            contents += new TextArea {
+              editable = false
+              text = Meta.toString
+            }
           }
         }
         dialog.open
@@ -443,16 +448,24 @@ class SubNabApp extends MainFrame {
               }
               case Close(false) => {
                 if (!state.syncedToFs) {
-                  askToSaveBeforeClose(state, this)
+                  askToSaveBeforeClose(state, () => {
+                    unsubscribe
+                    initState
+                  })
                 } else initState
               }
+              //Sys exit
               case Close(true) => {
-                if (!state.syncedToFs) {
-                  askToSaveBeforeClose(state, this)
+                val exitFunc = () => {
+                  bus.onCompleted()
+                  unsubscribe
+                  main.closeOperation()
                 }
-                bus.onCompleted()
-                unsubscribe
-                main.closeOperation()
+                if (!state.syncedToFs) {
+                  askToSaveBeforeClose(state, exitFunc)
+                } else {
+                  exitFunc()
+                }
               }
               case msg => //ignore the rest
             }
@@ -460,16 +473,13 @@ class SubNabApp extends MainFrame {
         })
     }
 
-    private def askToSaveBeforeClose(state: Current, subscriber: Subscriber[_]) {
-      val result = Dialog.showConfirmation(main, "Discard unsaved work?", "Close", Dialog.Options.YesNoCancel)
+    private def askToSaveBeforeClose(state: Current, onNo: () => Unit) {
+      val result = Dialog.showConfirmation(main, "Save work?", "Close", Dialog.Options.YesNoCancel)
       result match {
         // yes, discard
-        case Dialog.Result.Yes => {
-          subscriber.unsubscribe()
-          initState
-        }
+        case Dialog.Result.Yes => bus.onNext(Save(state.filePath))
         //no save
-        case Dialog.Result.No => bus.onNext(Save(state.filePath))
+        case Dialog.Result.No => onNo()
         case Dialog.Result.Cancel => //do nothing
       }
     }

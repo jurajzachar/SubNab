@@ -1,13 +1,13 @@
 1
-00:00:00,704 --> 00:00:01,111
+00:00:00,719 --> 00:00:01,125
 Frankly, my dear, I don't give a damn.
 
 2
-00:00:08,623 --> 00:00:09,759
+00:00:08,637 --> 00:00:09,773
 I'm gonna make him an offer he can't refuse.
 
 3
-00:00:16,474 --> 00:00:17,4
+00:00:16,488 --> 00:00:17,414
 You don't understand! I coulda had class. I coulda been a contender. 
 
 4

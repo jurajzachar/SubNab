@@ -11,21 +11,40 @@ object whiteboard {
   }
   */
   
-  val insertion = 6                               //> insertion  : Int = 6
+  /*
+  val insertion = 6
   val sortedList = {insertion :: List(1,2,3,4,5)}.sorted
-                                                  //> sortedList  : List[Int] = List(1, 2, 3, 4, 5, 6)
   
   sortedList.foldLeft((List[Int]()))((list,elem) => {
    list match {
    	 case Nil => elem :: list
    	 case x :: xs => if(x < insertion) elem :: list else elem + 1 :: list
   }
-  }).reverse                                      //> res0: List[Int] = List(1, 2, 3, 4, 5, 6)
+  }).reverse
 
 
-sortedList.filter(_ != 1)                         //> res1: List[Int] = List(2, 3, 4, 5, 6)
+sortedList.filter(_ != 1)
 
 
-val input = "00:00:00,0"                          //> input  : String = 00:00:00,0
-Time.parse(input)                                 //> res2: scala.util.Try[com.blueskiron.subnab.srt.Time] = Success(00:00:00,0)
+val input = "00:00:00,0"
+Time.parse(input)
+
+val url = getClass.getResource("/icons/subnab_256.png")
+
+//val iconImage = new javax.swing.ImageIcon(getClass.getResource("icons/subnab_256.png"))
+
+val line = "  val metaVersion = \"${version}\""
+
+val regex = "val\\smetaVersion\\s=\\s(.*)".r
+
+regex.findAllIn(line).matchData foreach { m => println(m.group(1)) }
+regex.replaceFirstIn(line, "val metaVersion = \"v1.0.0\"")
+*/
+                                                  
+                                                 Meta.toString
+                                                  //> res0: String = " 
+                                                  //|       SubNab - SRT Subtitles Editor
+                                                  //|       version: unreleased
+                                                  //|       (c) Blue Skiron
+                                                  //|     "
 }

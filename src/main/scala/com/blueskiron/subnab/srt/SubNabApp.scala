@@ -7,6 +7,7 @@ import java.awt.Dimension
 import java.io.File
 import java.io.PrintWriter
 
+import scala.collection.JavaConverters
 import scala.annotation.tailrec
 import scala.swing.Action
 import scala.swing.Alignment
@@ -53,6 +54,10 @@ import javax.swing.text.Document
 import rx.lang.scala.Subscriber
 import rx.lang.scala.Subscription
 import rx.lang.scala.subjects.PublishSubject
+import rx.lang.scala.schedulers.ComputationScheduler
+import java.nio.charset.Charset
+import org.slf4j.LoggerFactory
+import scala.collection.JavaConversions
 
 /**
  * @author Juraj Zachar
@@ -64,9 +69,11 @@ class SubNabApp extends MainFrame {
   case object Replace extends CaptionOperation
   case object Delete extends CaptionOperation
 
+  //== META stuff ==
+  val metaVersion = s"$$version"
   val controller = new Controller(this)
 
-  //menu
+  //== MENU ==
   menuBar = new MenuBar {
     contents += new Menu("File") {
       contents += new MenuItem(Action("New") {
@@ -89,30 +96,62 @@ class SubNabApp extends MainFrame {
         controller.onClose(true)
       })
     }
-    contents += new Menu("Edit") {
-      contents += new MenuItem(Action("Shift Time") {
-        println("Action '" + title + "' invoked")
+    contents += new Menu("Tools") {
+      contents += new MenuItem(Action("Search") {
+        val dialog = new Dialog {
+          setLocationRelativeTo(sidebarControls)
+          title = "Search"
+          contents = searchPanel
+        }
+        dialog.open
       })
-      contents += new MenuItem(Action("Set Encoding") {
-        println("Action '" + title + "' invoked")
+      contents += new MenuItem(Action("Time Shift") {
+        timeShiftDialog.open
       })
-    }
-    contents += new Menu("Search") {
-      contents += searchPanel
+      contents += new MenuItem(Action("Encoding") {
+        Dialog.showInput(
+          captionTextArea,
+          null,
+          "Source Encoding",
+          Dialog.Message.Plain,
+          scala.swing.Swing.EmptyIcon,
+          JavaConversions.asScalaSet(Charset.availableCharsets().keySet()).toSeq, "UTF-8"
+        )
+      })
+      contents += new Separator
+      contents += new MenuItem(Action("About") {
+        val dialog = new Dialog {
+          setLocationRelativeTo(captionAllArea)
+          title = "About"
+          contents = new TextArea {
+            editable = false
+            text = s"""
+                SRT - Subtitles Editor               
+                version: $metaVersion                
+                
+                (c) Blue Skiron                
+              """
+          }
+        }
+        dialog.open
+      })
     }
   }
 
+  //== MAIN COMPONENTS ==
   lazy val newFileBtn = new Button("New")
   lazy val loadFileBtn = new Button("Load")
   lazy val saveFileBtn = new Button("Save")
   lazy val captionAddBtn = new Button("Add")
   lazy val captionReplaceBtn = new Button("Replace")
   lazy val captionDeleteBtn = new Button("Delete")
+  lazy val nextMatchBtn = new Button("Next")
+  lazy val timeShiftGoBtn = new Button("Apply")
+  lazy val timeShiftCancelBtn = new Button("Cancel")
   lazy val searchField = new TextField(20) {
     //TODO
     text = "not implemented"
   }
-  lazy val nextMatchBtn = new Button("Next")
   lazy val searchPanel = new FlowPanel {
     //only show if there are matches found
     nextMatchBtn.visible = false
@@ -120,9 +159,6 @@ class SubNabApp extends MainFrame {
     contents += searchField
     contents += searchLabel
     contents += nextMatchBtn
-  }
-  lazy val seqIdField = new TextField(5) {
-    horizontalAlignment = Alignment.Right
   }
   lazy val beginField = new TextField(10) {
     horizontalAlignment = Alignment.Right
@@ -141,20 +177,32 @@ class SubNabApp extends MainFrame {
   }
   val highlighter = captionAllArea.peer.getHighlighter
   val painter = new DefaultHighlightPainter(Color.BLACK)
-  lazy val sequenceSpinnerLabel, timeDistanceSliderLabel, searchLabel = new Label() {
-    horizontalAlignment = Alignment.Leading
+  lazy val sequenceSpinnerLabel, timeDistanceSliderLabel, searchLabel, breakdownShiftTimeLabel, totalShiftTimeLabel = new Label() {
+    horizontalAlignment = Alignment.Right
   }
   sequenceSpinnerLabel.text = "Sequence: "
   timeDistanceSliderLabel.text = "Time: "
   searchLabel.text = "(Found: 0)"
-  val sequenceSpinnerModel = new SpinnerNumberModel(1, 1, 1, 1)
-  val sequenceSpinner = new Spinner(sequenceSpinnerModel)
+  val secondShiftSpinner = new Spinner(new SpinnerNumberModel(0, -59, 59, 1))
+  val millisShiftSpinner = new Spinner(new SpinnerNumberModel(0, -999, 999, 1))
+  val shiftFromSequenceSpinnerModel = new SpinnerNumberModel(1, 1, 99999, 1)
+  val shiftToSequenceSpinnerModel = new SpinnerNumberModel(1, 1, 99999, 1)
+  val sequenceSpinner = new Spinner(new SpinnerNumberModel(1, 1, 99999, 1))
+  val shiftFromSequenceSpinner = new Spinner(shiftFromSequenceSpinnerModel)
+  val shiftToSequenceSpinner = new Spinner(shiftToSequenceSpinnerModel)
   val timeDistanceSlider = new Slider() {
     min = 1
     max = 1
   }
 
+  //== EVENTS ==
   listenTo(
+    timeShiftGoBtn,
+    timeShiftCancelBtn,
+    shiftFromSequenceSpinner,
+    shiftToSequenceSpinner,
+    secondShiftSpinner,
+    millisShiftSpinner,
     searchField,
     nextMatchBtn,
     sequenceSpinner,
@@ -163,9 +211,10 @@ class SubNabApp extends MainFrame {
     captionReplaceBtn,
     captionDeleteBtn
   )
-
   reactions += {
     //forward all UI events to the bus
+    case ButtonClicked(`timeShiftGoBtn`) => controller.onTimeShift()
+    case ButtonClicked(`timeShiftCancelBtn`) => timeShiftDialog.close
     case ButtonClicked(`captionAddBtn`) => controller.onCaptionModify(Add)
     case ButtonClicked(`captionReplaceBtn`) => controller.onCaptionModify(Replace)
     case ButtonClicked(`captionDeleteBtn`) => controller.onCaptionModify(Delete)
@@ -173,8 +222,71 @@ class SubNabApp extends MainFrame {
     case ValueChanged(`searchField`) => controller.onSearchField()
     case ValueChanged(`sequenceSpinner`) => controller.onSequenceSpinner()
     case ValueChanged(`timeDistanceSlider`) => controller.onTimeDistanceSlider()
+    case ValueChanged(`shiftFromSequenceSpinner`) => setShiftLabels
+    case ValueChanged(`shiftToSequenceSpinner`) => setShiftLabels
+    case ValueChanged(`secondShiftSpinner`) => setShiftLabels
+    case ValueChanged(`millisShiftSpinner`) => setShiftLabels
+  }
+  //DIALOGS
+  lazy val timeShiftDialog = new Dialog {
+    setLocationRelativeTo(this)
+    title = "SubNab - Time Shift"
+    contents = timeShiftPanel
+  }
+  //== PANELS ==
+  private def setShiftLabels {
+    val timeShiftValues = controller.getTimeShiftValues
+    breakdownShiftTimeLabel.text = s"Shift time in sequences from ${timeShiftValues._1} to ${timeShiftValues._2} "
+    totalShiftTimeLabel.text = s"by ${timeShiftValues._3 * 1000 + timeShiftValues._4} milliseconds."
   }
 
+  val timeShiftPanel = new GridBagPanel {
+    private val c = new Constraints {
+      fill = Fill.Horizontal
+      gridx = 0
+      gridy = 0;
+      weightx = 0.5
+      insets = new Insets(5, 5, 5, 5)
+    }
+
+    add(new FlowPanel {
+      contents += new Label("From: ")
+      contents += shiftFromSequenceSpinner
+      contents += new Label("To: ")
+      contents += shiftToSequenceSpinner
+    })
+    add(new FlowPanel {
+      contents += new Label("Second: ")
+      contents += secondShiftSpinner
+      contents += new Label("Millisecond: ")
+      contents += millisShiftSpinner
+    })
+    add(new Separator())
+    add(new FlowPanel() {
+      contents += breakdownShiftTimeLabel
+      contents += totalShiftTimeLabel
+    })
+    add(new Separator())
+    add(new FlowPanel() {
+      contents += timeShiftGoBtn
+      contents += timeShiftCancelBtn
+    })
+
+    //Add component below previous one
+    private def add(component: Component) {
+      c.gridy += 1
+      layout(component) = c
+    }
+
+    setShiftLabels
+    setLocationRelativeTo(captionAllArea)
+    preferredSize = new Dimension(550, 300)
+    maximumSize = preferredSize
+  }
+
+  val encodingPanel = new FlowPanel {
+
+  }
   val captionPanel = new GridBagPanel {
     private val c = new Constraints {
       fill = Fill.Horizontal
@@ -185,9 +297,10 @@ class SubNabApp extends MainFrame {
     }
 
     add(new FlowPanel {
-      contents += new Label("Sequence: ")
-      contents += seqIdField
+      contents += sequenceSpinnerLabel
+      contents += sequenceSpinner
     })
+
     add(new FlowPanel {
       contents += new Label("Begin:")
       contents += beginField
@@ -223,15 +336,10 @@ class SubNabApp extends MainFrame {
       insets = new Insets(5, 5, 5, 5)
     }
 
-    add(new BoxPanel(Orientation.Horizontal) {
-      contents += sequenceSpinnerLabel
-      contents += sequenceSpinner
-    })
-
-    add(new GridPanel(2, 1) {
+    add(new FlowPanel {
       contents += timeDistanceSliderLabel
-      contents += timeDistanceSlider
     })
+    add(timeDistanceSlider)
 
     //Add component below previous one
     private def add(component: Component) {
@@ -276,12 +384,14 @@ class SubNabApp extends MainFrame {
     case class Close(withSysExit: Boolean) extends AppEvent
     case class Search(text: String) extends AppEvent
     case class Get(seqId: Int, fromTextPosition: Int) extends AppEvent
+    case class Encoding(enc: String) extends AppEvent
     case class Modify(func: (List[Entry]) => Try[List[Entry]]) extends AppEvent
     case class SearchMatch(seqId: Int, from: Int, position: Int, lenght: Int) extends AppEvent
     case class Found(matches: List[SearchMatch]) extends AppEvent
     case object NextSearchMatch extends AppEvent
     private val log = LoggerFactory.getLogger(this.getClass)
     private val bus = PublishSubject[AppEvent]
+    private val controllerScheduler = ComputationScheduler()
     private val syncedSymbol = "  *Unsaved"
     private lazy val fileChooser = new FileChooser(new File("src/test/resources"))
     fileChooser.peer.setFileFilter(new FileNameExtensionFilter("SRT Subtitles Files", "srt"))
@@ -294,58 +404,60 @@ class SubNabApp extends MainFrame {
 
     //internal state mutates with incoming and outgoing subscribers
     def stateHandler(state: Current): Subscription = {
-      bus.subscribe(new Subscriber[AppEvent] {
-        //success channel
-        override def onNext(event: AppEvent) = {
-          event match {
-            //unsubscribe and allow new subscriber to serve new state
-            case otherState: Current => {
-              unsubscribe //self
-              stateHandler(otherState)
-              goToCaptionPosition(1)
-            }
-            case Save(None) => {
-              if (!state.filePath.isDefined) {
-                onSaveAsFile()
-              } else {
-                bus.onNext(Save(Some(state.filePath.get)))
+      bus
+        .subscribeOn(controllerScheduler)
+        .unsubscribeOn(controllerScheduler).subscribe(new Subscriber[AppEvent] {
+          //success channel
+          override def onNext(event: AppEvent) = {
+            event match {
+              //unsubscribe and allow new subscriber to serve new state
+              case otherState: Current => {
+                unsubscribe //self
+                stateHandler(otherState)
+                goToCaptionPosition(1)
               }
-            }
-            case Save(Some(path)) => {
-              val fullPath = {
-                if (!path.endsWith(".srt")) path + ".srt"
-                else path
+              case Save(None) => {
+                if (!state.filePath.isDefined) {
+                  onSaveAsFile()
+                } else {
+                  bus.onNext(Save(Some(state.filePath.get)))
+                }
               }
-              writeToFile(state.entries, fullPath)
-              loadSource(state.entries, Some(fullPath), true)
-            }
-            case Modify(func) => {
-              func(state.entries) match {
-                //re-issue new state, this will trigger unsubscribing of this
-                case Success(modifiedState) => loadSource(modifiedState, state.filePath, false)
-                case Failure(t) => handleError(t)
+              case Save(Some(path)) => {
+                val fullPath = {
+                  if (!path.endsWith(".srt")) path + ".srt"
+                  else path
+                }
+                writeToFile(state.entries, fullPath)
+                loadSource(state.entries, Some(fullPath), true)
               }
-            }
-            case Get(seq, fromTextPosition) => {
-              state.entries.find(e => e.seq == seq).map(entry => serveCaption(entry, fromTextPosition))
-            }
-            case Close(false) => {
-              if (!state.syncedToFs) {
-                askToSaveBeforeClose(state, this)
-              } else initState
-            }
-            case Close(true) => {
-              if (!state.syncedToFs) {
-                askToSaveBeforeClose(state, this)
+              case Modify(func) => {
+                func(state.entries) match {
+                  //re-issue new state, this will trigger unsubscribing of this
+                  case Success(modifiedState) => loadSource(modifiedState, state.filePath, false)
+                  case Failure(t) => handleError(t)
+                }
               }
-              bus.onCompleted()
-              unsubscribe
-              main.closeOperation()
+              case Get(seq, fromTextPosition) => {
+                state.entries.find(e => e.seq == seq).map(entry => serveCaption(entry, fromTextPosition))
+              }
+              case Close(false) => {
+                if (!state.syncedToFs) {
+                  askToSaveBeforeClose(state, this)
+                } else initState
+              }
+              case Close(true) => {
+                if (!state.syncedToFs) {
+                  askToSaveBeforeClose(state, this)
+                }
+                bus.onCompleted()
+                unsubscribe
+                main.closeOperation()
+              }
+              case msg => //ignore the rest
             }
-            case msg => //ignore the rest
           }
-        }
-      })
+        })
     }
 
     private def askToSaveBeforeClose(state: Current, subscriber: Subscriber[_]) {
@@ -363,20 +475,20 @@ class SubNabApp extends MainFrame {
     }
 
     def searchMatchHandler(matches: List[SearchMatch]) {
-      bus.subscribe(new Subscriber[AppEvent] {
-        override def onNext(event: AppEvent) = {
-          event match {
-            //unsubscribe and thus prevent dupes if other entries are served
-            case Found(matches) => unsubscribe
-            //a simple circulation of matches --> move head to the end of the list
-            case NextSearchMatch => {
-              val next = matches.tail.head
-              searchMatchHandler(matches.tail ++ List(matches.head)); unsubscribe
-            }
-            case msg => log.warn(s"Ignoring: $msg")
-          }
-        }
-      })
+      //      bus.subscribe(new Subscriber[AppEvent] {
+      //        override def onNext(event: AppEvent) = {
+      //          event match {
+      //            //unsubscribe and thus prevent dupes if other entries are served
+      //            case Found(matches) => unsubscribe
+      //            //a simple circulation of matches --> move head to the end of the list
+      //            case NextSearchMatch => {
+      //              val next = matches.tail.head
+      //              searchMatchHandler(matches.tail ++ List(matches.head)); unsubscribe
+      //            }
+      //            case msg => log.warn(s"Ignoring: $msg")
+      //          }
+      //        }
+      //      })
     }
 
     //UI events
@@ -386,8 +498,8 @@ class SubNabApp extends MainFrame {
 
     def onNewFile() {
       main.title = "SubNab - New"
-      val entry = Entry(1, Time(0, 0, 0, 0), Time(0, 0, 0, 1), "...")
-      sequenceSpinnerModel.setMaximum(1)
+      val entry = Entry(1, Time(0, 0, 0, 0), Time(0, 0, 0, 1), "")
+      //sequenceSpinnerModel.setMaximum(1)
       timeDistanceSlider.max = 1
       captionAllArea.text = ""
       setCaption(entry)
@@ -437,7 +549,7 @@ class SubNabApp extends MainFrame {
       main.title = s"SubNab - ${filePath.getOrElse("New")}"
       setSavedInTitle(isSynced)
       val maxSeqId = getMaxSeqId(entries)
-      sequenceSpinnerModel.setMaximum(maxSeqId)
+      shiftToSequenceSpinnerModel.setMaximum(maxSeqId)
       timeDistanceSlider.max = maxSeqId
       captionAllArea.text = entries.map(_.toString).mkString
       toggleSessionVisibility(true)
@@ -454,8 +566,32 @@ class SubNabApp extends MainFrame {
 
     def onTimeDistanceSlider() { onSequence(timeDistanceSlider.value.asInstanceOf[Int]) }
 
+    def onTimeShift() {
+      val timeShiftValues = getTimeShiftValues
+      val from = timeShiftValues._1
+      val to = timeShiftValues._2 + 1 //cater for top bound exclusion 
+      val effectRange = Range(from, to)
+      val millis = timeShiftValues._3 * 1000 + timeShiftValues._4
+      val mod = Modify { entries =>
+        {
+          if (entries.isEmpty)
+            Failure(new Exception("Empty source"))
+          //check if range OK
+          else if (to < from || !entries.map(_.seq).containsSlice(effectRange)) {
+            Failure(new Exception("Invalid sequence range"))
+          } else {
+            Success {
+              entries.map(entry => if (effectRange contains entry.seq) entry.shiftTime(millis) else entry)
+            }
+          }
+        }
+      }
+      bus.onNext(mod)
+      goToCaptionPosition(from)
+    }
+
     def onCaptionModify(operation: CaptionOperation) {
-      val trySeqId = Parser.validateSequenceId(seqIdField.text)
+      val trySeqId = Parser.validateSequenceId(String.valueOf(sequenceSpinner.value.asInstanceOf[Int]))
       val begin = beginField.text
       val end = endField.text
       val tryTime = Parser.validateTime(begin, end)
@@ -467,6 +603,8 @@ class SubNabApp extends MainFrame {
             entries =>
               {
                 val lastSeqId = getMaxSeqId(entries)
+                val previousEnd = entries.find(_.seq == seqId - 1).map(_.end)
+                val nextBegin = entries.find(_.seq == seqId + 1).map(_.end)
                 operation match {
                   case Delete => {
                     if (!entries.map(_.seq).contains(seqId)) {
@@ -480,6 +618,8 @@ class SubNabApp extends MainFrame {
                     }
                   }
                   case Add => {
+                    //check for time continuity
+                    warnIfTimeNotContinuous(previousEnd, time._1, time._2, nextBegin)
                     //not dealing with 'next" id  or 'existing' id is a failure
                     val distance = seqId - lastSeqId
                     if (distance > 1 && !entries.map(_.seq).contains(seqId)) {
@@ -499,6 +639,8 @@ class SubNabApp extends MainFrame {
                     }
                   }
                   case Replace => {
+                    //check for time continuity
+                    warnIfTimeNotContinuous(previousEnd, time._1, time._2, nextBegin)
                     if (!entries.map(_.seq).contains(seqId)) {
                       Failure(new Exception(s"Cannot replace: '$seqId'. Caption '$seqId' not in the sequence."))
                     } else {
@@ -517,9 +659,36 @@ class SubNabApp extends MainFrame {
           val errorMsg = s"${Parser.extractFailureMessage(trySeqId, tryTime, tryCaption)}"
           handleError(InvalidSRTContentException(errorMsg))
         }
-
       }
+    }
 
+    def getTimeShiftValues: (Int, Int, Int, Int) = {
+      val from = shiftFromSequenceSpinner.value.asInstanceOf[Int]
+      val to = shiftToSequenceSpinner.value.asInstanceOf[Int]
+      val seconds = secondShiftSpinner.value.asInstanceOf[Int]
+      val millis = millisShiftSpinner.value.asInstanceOf[Int]
+      (from, to, seconds, millis)
+    }
+
+    private def warnIfTimeNotContinuous(previousEnd: Option[Time], begin: Time, end: Time, nextBegin: Option[Time]) {
+      val localTimeBegin = begin.localTime
+      val localTimeEnd = end.localTime
+      previousEnd.map(time => {
+        if (!time.localTime.isBefore(localTimeBegin)) {
+          Dialog.showMessage(main, s"Caption occurs before the previous one. '${time.toString}' followed by '${begin.toString}'!",
+            "Warning", Dialog.Message.Warning)
+        }
+      })
+      if (!localTimeBegin.isBefore(localTimeEnd)) {
+        Dialog.showMessage(main, s"Caption's end time occurs before begin. '${begin.toString}' followed by '${end.toString}'!",
+          "Warning", Dialog.Message.Warning)
+      }
+      nextBegin.map(time => {
+        if (!time.localTime.isAfter(localTimeEnd)) {
+          Dialog.showMessage(main, s"Caption occurs after the next one. '${end.toString}' followed by '${time.toString}'!",
+            "Warning", Dialog.Message.Warning)
+        }
+      })
     }
 
     private def setSavedInTitle(saved: Boolean) {
@@ -565,8 +734,14 @@ class SubNabApp extends MainFrame {
       val searchLen = String.valueOf(seqId).length + 2
       waitCursor {
         locateCaption(0, searchLen, text => { s"^$seqId\n\\d+".r findFirstIn text }.isDefined) match {
-          case -1 => //ignore
-          case textPosition: Int => bus.onNext(Get(seqId, textPosition + 1))
+          case -1 => {
+            //not found
+            sequenceSpinnerLabel.text = "Sequence (new):"
+          }
+          case textPosition: Int => {
+            sequenceSpinnerLabel.text = "Sequence:"
+            bus.onNext(Get(seqId, textPosition + 1))
+          }
         }
       }
     }
@@ -588,8 +763,6 @@ class SubNabApp extends MainFrame {
       highlighter.removeAllHighlights()
       highlighter.addHighlight(peer.getLineStartOffset(lineFrom), peer.getLineEndOffset(lineTo), painter)
       setCaption(entry)
-      //set sequence spinner
-      sequenceSpinner.value = entry.seq
     }
 
     private def setCaption(entry: Entry) {
@@ -601,7 +774,8 @@ class SubNabApp extends MainFrame {
       captionTextArea.text = entry.caption
       beginField.text = entry.begin.toString
       endField.text = entry.end.toString
-      seqIdField.text = String.valueOf(entry.seq)
+      //set sequence spinner
+      sequenceSpinner.value = entry.seq
     }
 
     private def writeToFile(entries: List[Entry], filePath: String) {
@@ -618,8 +792,7 @@ class SubNabApp extends MainFrame {
 
     //error handler 
     private def handleError(throwable: Throwable) {
-      log.debug(s"handling error: $throwable")
-      Dialog.showMessage(main, throwable.getMessage, "Error", Error)
+      Dialog.showMessage(main, throwable.getMessage, "Error", Dialog.Message.Error)
     }
   }
 }

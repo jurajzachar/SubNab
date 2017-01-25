@@ -5,6 +5,7 @@ import scala.util.Success
 import scala.util.Failure
 import java.time.LocalTime
 import java.time.format.DateTimeFormatter
+import java.time.temporal.ChronoUnit
 
 /**
  * @author Juraj Zachar
@@ -43,6 +44,14 @@ object Time {
 case class Time(hour: Int, minute: Int, second: Int, millis: Int) {
 
   val localTime = LocalTime.of(hour, minute, second, millis * Time.milliToNanoMultiplier)
+
+  def shift(millis: Int): Time = {
+    if (millis > 0) {
+      Time(localTime.plus(Math.abs(millis), ChronoUnit.MILLIS))
+    } else {
+      Time(localTime.minus(Math.abs(millis), ChronoUnit.MILLIS))
+    }
+  }
 
   override def toString: String = {
     val hourPadding = s"${if (hour < 10) "0" + hour else hour}"

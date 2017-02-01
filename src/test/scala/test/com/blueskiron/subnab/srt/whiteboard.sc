@@ -3,13 +3,38 @@ import scala.util.{Success, Failure}
 
 object whiteboard {
   import com.blueskiron.subnab.srt._
-	/*
-  val testFileContents = scala.io.Source.fromURL(getClass.getResource("/Error.srt"))
+	/*   */
+  //val testFileContents = scala.io.Source.fromURL(getClass.getResource("/non-iso-extended-ascii.srt"))
+  val testFileContents = scala.io.Source.fromFile("/Users/juri/github_repos/SubNab/src/test/resources/non-iso-extended-ascii.srt", "IBM01149").getLines().mkString
+                                                  //> testFileContents  : String = 
+                                                  //| Ñë?_,/øÑÈ÷>Þ/_ÁËèÑÂÁÊÑÍË.ÑÊ,:?�
+                                                  //| �ëø?¦Á>Á¦ÃÁÀÁÊ÷ÄÑÁø%/>ZÈÑ
+                                                  //| ëÈ?¦Ò_øÊÁÀÎ/_Ñ/,?>Á�
+                                                  //| �ÈÊ÷%>ð:÷ËÈÍøÄ/ãÑÂ?>/>Ë,Á¦ÊÁøÍÂ%Ñ,ð�
+                                                  //| �&ÊÑ>÷ª/_/,?ÅÁË�
+                                                  //| �?À?ÂÊÁ¦Î4%Á
+                                                  //| øÊÁÀÎ÷]Á>ÙÄÇY%Á>?ÎÀÁ%ÁÅ÷ÄÑÁèÁÁ>/�
+                                                  //| �ÍÀ/Ê
+                                                  //| ?À+/¦ÎðªªÁ¦Ê/ÀðãÑÂ?>/>ÍËøÊÁ¦/Î?_>/¦Ç%Âª
+                                                  //| Á¦³ÄÈð
+                                                  //| H?ËÈÙ_¦Á�
+                                                  //| �H?øÊ?ËÒ_�
+                                                  //| �&ÊÁY?È?Í]>ÁÄÇÄ³
+                                                  //| â?%/È?Ë³Y/Ë¸ËÈ/Ê?ÎÁ,Á¦:
+                                                  //| ÂÊ/>Á/øÊÑ>÷ª/_¦Í/,?Ëð_Â?%�
+                                                  //| �_ÑÁÊÍ�
+                                                  //| �î?ÃÑÂ?>/>Ë,Á¦,Í%È³ÊÁÀ/Ê
+                                                  //| ?Î/¸:ÂÊ/2:>/_Á>÷øÊÒ_ÁÊÑÁ�
+                                                  //| � ,?,È?_ÍøÊÑª%Ñ�
+                                                  //| �
+                                                  //| Output exceeds cutoff limit.
+  
+  /*
   Parser.parse(testFileContents) match {
   	case Success(list) => list.head
   	case Failure(t) => println(t)
   }
-  */
+*/
   
   /*
   val insertion = 6
@@ -43,8 +68,8 @@ regex.replaceFirstIn(line, "val metaVersion = \"v1.0.0\"")
                                                   
                                                  Meta.toString
                                                   //> res0: String = " 
-                                                  //|       SubNab - SRT Subtitles Editor
-                                                  //|       version: unreleased
+                                                  //|       SubNab - SRT Subtitles Editor         
+                                                  //|       version: development (unreleased)      
                                                   //|       (c) Blue Skiron
                                                   //|     "
 }

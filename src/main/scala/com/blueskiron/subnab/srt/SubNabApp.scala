@@ -61,6 +61,7 @@ import scala.collection.JavaConversions
 import java.awt.Image
 import javax.swing.ImageIcon
 import com.blueskiron.subnab.Meta
+import scala.io.BufferedSource
 
 /**
  * @author Juraj Zachar
@@ -113,7 +114,7 @@ class SubNabApp extends MainFrame {
         timeShiftDialog.open
       })
       contents += new MenuItem(Action("Encoding") {
-        Dialog.showInput(
+        val enc: Option[String] = Dialog.showInput(
           captionTextArea,
           null,
           "Source Encoding",
@@ -121,6 +122,7 @@ class SubNabApp extends MainFrame {
           scala.swing.Swing.EmptyIcon,
           JavaConversions.asScalaSet(Charset.availableCharsets().keySet()).toSeq, "UTF-8"
         )
+        controller.onSetEncoding(enc)
       })
       contents += new Separator
       contents += new MenuItem(Action("About") {
@@ -382,18 +384,6 @@ class SubNabApp extends MainFrame {
   centerOnScreen()
 
   class Controller(main: MainFrame) {
-
-    sealed trait AppEvent
-    case class Current(entries: List[Entry], filePath: Option[String], syncedToFs: Boolean) extends AppEvent
-    case class Save(path: Option[String]) extends AppEvent
-    case class Close(withSysExit: Boolean) extends AppEvent
-    case class Search(text: String) extends AppEvent
-    case class Get(seqId: Int, fromTextPosition: Int) extends AppEvent
-    case class Encoding(enc: String) extends AppEvent
-    case class Modify(func: (List[Entry]) => Try[List[Entry]]) extends AppEvent
-    case class SearchMatch(seqId: Int, from: Int, position: Int, lenght: Int) extends AppEvent
-    case class Found(matches: List[SearchMatch]) extends AppEvent
-    case object NextSearchMatch extends AppEvent
     private val log = LoggerFactory.getLogger(this.getClass)
     private val bus = PublishSubject[AppEvent]
     private val controllerScheduler = ComputationScheduler()
@@ -404,11 +394,11 @@ class SubNabApp extends MainFrame {
     def initState = {
       main.title = s"SubNab - SRT Subtitles Editor"
       toggleSessionVisibility(false)
-      stateHandler(Current(Nil, None, true))
+      stateHandler(Source(Nil, Encoding(Charset.defaultCharset().name()), None, true))
     }
 
     //internal state mutates with incoming and outgoing subscribers
-    def stateHandler(state: Current): Subscription = {
+    def stateHandler(state: Source): Subscription = {
       bus
         .subscribeOn(controllerScheduler)
         .unsubscribeOn(controllerScheduler).subscribe(new Subscriber[AppEvent] {
@@ -416,10 +406,27 @@ class SubNabApp extends MainFrame {
           override def onNext(event: AppEvent) = {
             event match {
               //unsubscribe and allow new subscriber to serve new state
-              case otherState: Current => {
+              case otherState: Source => {
                 unsubscribe //self
                 stateHandler(otherState)
                 goToCaptionPosition(1)
+              }
+              case Encoding(code) => {
+                main.title = s"SubNab - ${state.filePath.getOrElse("New")} (${code})"
+                bus.onNext(state.copy(enc = Encoding(code)))
+              }
+              case Load(path) => {
+                val autoDetectCodes = Encoding.autoDetectSet + state.enc.code
+                val trySource = tryReadFile(path, autoDetectCodes, Nil)
+                if (trySource.isFailure) {
+                  handleError(trySource.failed.get)
+                } else {
+                  val encoding = trySource.get._2
+                  Parser.parse(trySource.get._1.toIterator) match {
+                    case Failure(t) => handleError(t)
+                    case Success(entries) => loadSource(entries, encoding, Some(path), true)
+                  }
+                }
               }
               case Save(None) => {
                 if (!state.filePath.isDefined) {
@@ -434,12 +441,12 @@ class SubNabApp extends MainFrame {
                   else path
                 }
                 writeToFile(state.entries, fullPath)
-                loadSource(state.entries, Some(fullPath), true)
+                loadSource(state.entries, state.enc, Some(fullPath), true)
               }
               case Modify(func) => {
                 func(state.entries) match {
                   //re-issue new state, this will trigger unsubscribing of this
-                  case Success(modifiedState) => loadSource(modifiedState, state.filePath, false)
+                  case Success(modifiedState) => loadSource(modifiedState, state.enc, state.filePath, false)
                   case Failure(t) => handleError(t)
                 }
               }
@@ -473,7 +480,7 @@ class SubNabApp extends MainFrame {
         })
     }
 
-    private def askToSaveBeforeClose(state: Current, onNo: () => Unit) {
+    private def askToSaveBeforeClose(state: Source, onNo: () => Unit) {
       val result = Dialog.showConfirmation(main, "Save work?", "Close", Dialog.Options.YesNoCancel)
       result match {
         // yes, discard
@@ -506,15 +513,22 @@ class SubNabApp extends MainFrame {
       //TODO
     }
 
+    def onSetEncoding(encOpt: Option[String]) {
+      //TODO
+      log.debug(s"Setting encoding to: $encOpt")
+      encOpt.map(code => bus.onNext(Encoding(code)))
+    }
+
     def onNewFile() {
-      main.title = "SubNab - New"
+      val enc = Encoding(Charset.defaultCharset().name())
+      main.title = s"SubNab - New ($enc)"
       val entry = Entry(1, Time(0, 0, 0, 0), Time(0, 0, 0, 1), "")
       //sequenceSpinnerModel.setMaximum(1)
       timeDistanceSlider.max = 1
       captionAllArea.text = ""
       setCaption(entry)
       toggleSessionVisibility(true)
-      loadSource(Nil, None, true)
+      loadSource(Nil, Encoding(Charset.defaultCharset().name()), None, true)
     }
 
     def onSaveFile() {
@@ -540,23 +554,41 @@ class SubNabApp extends MainFrame {
         val path = fileChooser.selectedFile.getAbsolutePath
         if (path == null) return
         else {
-          val fileContents = scala.io.Source.fromFile(path, "utf-8")
-          if (fileContents == null) {
-            val errorMsg = s"File: '$path' could not be opened!"
-            handleError(new Exception(errorMsg))
+          bus.onNext(Load(path))
+        }
+      }
+    }
+
+    //get lines and the corresponding encoding...
+    private def tryReadFile(path: String, autoDetectCodes: Set[String], triedCodes: List[String]): Try[(List[String], Encoding)] = {
+      val diffCodes = autoDetectCodes.diff(triedCodes.toSet)
+      //exhausted all available encodings and we thus fail on the gibberish source
+      if (diffCodes.isEmpty) Failure(new Exception(s"Cannot open source at $path"))
+      else {
+        val nextCode = diffCodes.head
+        try {
+          val bufSource = scala.io.Source.fromFile(path, nextCode)
+          if (!bufSource.isEmpty) {
+            val source = bufSource.getLines.toList
+            if (source.head.trim.replace("\uFEFF", "").replace("\uFFFE", "") matches "\\d") {
+              log.debug(s"Succeeded reading $path with encoding: $nextCode")
+              Success(source, Encoding(nextCode))
+            } else tryReadFile(path, autoDetectCodes, nextCode :: triedCodes)
           } else {
-            Parser.parse(fileContents) match {
-              case Failure(t) => handleError(t)
-              case Success(entries) => loadSource(entries, Some(path), true)
-            }
+            tryReadFile(path, autoDetectCodes, nextCode :: triedCodes)
+          }
+        } catch {
+          case e: Exception => {
+            //try next encoding
+            tryReadFile(path, autoDetectCodes, nextCode :: triedCodes)
           }
         }
       }
     }
 
-    private def loadSource(entries: List[Entry], filePath: Option[String], isSynced: Boolean) {
+    private def loadSource(entries: List[Entry], enc: Encoding, filePath: Option[String], isSynced: Boolean) {
       //set title 
-      main.title = s"SubNab - ${filePath.getOrElse("New")}"
+      main.title = s"SubNab - ${filePath.getOrElse("New")} (${enc.code})"
       setSavedInTitle(isSynced)
       val maxSeqId = getMaxSeqId(entries)
       shiftToSequenceSpinnerModel.setMaximum(maxSeqId)
@@ -564,7 +596,7 @@ class SubNabApp extends MainFrame {
       captionAllArea.text = entries.map(_.toString).mkString
       toggleSessionVisibility(true)
       //emit to invalidate old state handlers
-      val state = Current(entries, filePath, isSynced)
+      val state = Source(entries, enc, filePath, isSynced)
       bus.onNext(state)
     }
 

@@ -7,6 +7,7 @@ v0.1.1
 
 ##Features
 * Create, open and edit .SRT files
+* Auto-detect language encoding or set it manually
 * .SRT format validation
 * Modify time of caption ranges using 'Time Shift' tool.
 
@@ -18,3 +19,6 @@ v0.1.1
 ##Screenshot
 
 ![SubNab screenshot](https://github.com/jurajzachar/SubNab/raw/master/project/subnab-screenshot.png)
+
+
+> 

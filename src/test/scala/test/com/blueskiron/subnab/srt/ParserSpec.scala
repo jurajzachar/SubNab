@@ -7,8 +7,8 @@ import scala.util.{ Failure, Success }
 //TODO
 class SRTParserSpec extends FlatSpec with Matchers {
   "The SRTParser" should "read subtitles file into sections" in new SRTSubtitlesFixture {
-    Parser.parse(buffSource) match {
-      case Failure(t) => fail(t)
+    Parser.parse(buffSource.getLines) match {
+      case Failure(t)    => fail(t)
       case Success(list) => //profit
     }
   }

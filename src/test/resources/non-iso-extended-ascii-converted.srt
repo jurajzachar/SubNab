@@ -1,0 +1,4712 @@
+1
+00:01:23,834 --> 00:01:28,839
+<i>Som kapitán James Tiberius Kirkzo Spojenej federácie planét.</i>
+
+2
+00:01:29,215 --> 00:01:34,220
+Stojím pred vami ako neutrálnyzástupca Fibonanskej republiky.
+
+3
+00:01:34,720 --> 00:01:36,722
+Prinášam ako gesto dobrej vôle
+
+4
+00:01:37,56 --> 00:01:40,184
+pred vážených členovdelegácie Teenaxu
+
+5
+00:01:40,684 --> 00:01:45,189
+dar od Najvyššej rady Fibonanus prejavom najhlbšej úcty.
+
+6
+00:01:48,192 --> 00:01:49,860
+Čo s tým je?
+
+7
+00:01:51,195 --> 00:01:52,29
+Čo prosím?
+
+8
+00:01:52,363 --> 00:01:54,448
+Prečo to už nechcú?
+
+9
+00:01:55,282 --> 00:01:59,787
+Bola to súčasť starovekej zbranea prinášam ju ako symbol
+
+10
+00:02:00,412 --> 00:02:01,747
+mieru.
+
+11
+00:02:02,81 --> 00:02:05,626
+Vo fibonanskej kultúredarovať zbraň znamená prímerie.
+
+12
+00:02:05,793 --> 00:02:07,378
+Ako k tomu prišli?
+
+13
+00:02:07,503 --> 00:02:09,672
+Získali to už veľmi dávno.
+
+14
+00:02:09,880 --> 00:02:11,298
+Takže to ukradli.
+
+15
+00:02:12,133 --> 00:02:13,968
+Nie, oni, hm...
+
+16
+00:02:15,52 --> 00:02:17,888
+Nepoznáte Fibonancov tak ako my!
+
+17
+00:02:18,139 --> 00:02:20,307
+To je pravda.Vaša excelencia, tento dar...
+
+18
+00:02:20,474 --> 00:02:22,977
+Je to banda klamárskych zlodejov,
+
+19
+00:02:23,144 --> 00:02:25,646
+čo by nás najradšejvyvraždila v spánku!
+
+20
+00:02:25,813 --> 00:02:29,775
+Tento cenný artefaktje symbolom dôvery a mieru.
+
+21
+00:02:30,109 --> 00:02:33,154
+Chcú nás nakrájať a opiecť nad ohňom!
+
+22
+00:02:33,404 --> 00:02:34,738
+Tomu neverím.
+
+23
+00:02:34,905 --> 00:02:37,74
+A zožrať nás!
+
+24
+00:02:38,450 --> 00:02:39,118
+Čože?
+
+25
+00:03:02,933 --> 00:03:04,935
+Scotty! Preneste ma!
+
+26
+00:03:05,102 --> 00:03:06,437
+<i>To bolo rýchle.</i>
+
+27
+00:03:08,272 --> 00:03:10,441
+<i>Niečo mi veľmi ruší signál, pane.</i>
+
+28
+00:03:16,822 --> 00:03:18,157
+Scotty!
+
+29
+00:03:26,290 --> 00:03:28,167
+Zasa som si roztrhol kombinézu.
+
+30
+00:03:28,334 --> 00:03:29,668
+Ako to šlo?
+
+31
+00:03:32,338 --> 00:03:35,341
+Kapitán, podarilo sa vámuzavrieť dohodu s Teenaxanmi?
+
+32
+00:03:35,966 --> 00:03:38,469
+Povedzme, že som celkom neuspel.Mohli by ste
+
+33
+00:03:38,802 --> 00:03:41,805
+to zaevidovať a dať do trezoru, Spock?Ďakujem.
+
+34
+00:03:42,14 --> 00:03:43,682
+Jim, vyzeráš hrozne.
+
+35
+00:03:43,849 --> 00:03:44,850
+Ďakujem, Kostra.
+
+36
+00:03:45,17 --> 00:03:47,853
+Zase ti pulzuje tá žila na spánku.Si v poriadku?
+
+37
+00:03:48,145 --> 00:03:50,689
+Ako nikdy! Je to len ďalší deň vo flotile.
+
+38
+00:03:58,364 --> 00:04:02,201
+<i>Kapitánov denník,hviezdny dátum 2263,2.</i>
+
+39
+00:04:04,370 --> 00:04:08,540
+<i>Dnes je náš 966. deňv hlbokom vesmíre,</i>
+
+40
+00:04:08,874 --> 00:04:12,44
+<i>máme za seboutakmer 3 roky päťročnej misie.</i>
+
+41
+00:04:14,213 --> 00:04:19,218
+<i>Čím ďalej, tým ťažšie vnímame,kedy sa končí jeden deň</i>
+
+42
+00:04:20,219 --> 00:04:22,12
+<i>a začína druhý.</i>
+
+43
+00:04:25,266 --> 00:04:30,271
+<i>Ťažko žiť s nohami pevne na zemi,keď aj gravitácia je tu umelá.</i>
+
+44
+00:04:31,21 --> 00:04:34,108
+<i>Ale snažíme sa,aby sme sa tu cítili ako doma.</i>
+
+45
+00:04:37,361 --> 00:04:40,72
+<i>Posádka si, ako vždy, počína skvelo,</i>
+
+46
+00:04:40,406 --> 00:04:44,201
+<i>aj napriek úskaliam dlhého pobytuhlboko vo vesmíre</i>
+
+47
+00:04:45,911 --> 00:04:48,914
+<i>a všetkému, čo museli obetovať.</i>
+
+48
+00:04:49,540 --> 00:04:51,750
+<i>Stále hľadáme nové formy života,</i>
+
+49
+00:04:52,84 --> 00:04:54,878
+<i>aby sme nadviazalipevné diplomatické vzťahy.</i>
+
+50
+00:04:55,212 --> 00:04:59,216
+<i>Dlhý pobyt v nezmapovanom územítvrdo skúša technické možnosti lode.</i>
+
+51
+00:04:59,383 --> 00:05:03,53
+<i>Ale našťastie naše technické oddeleniepod vedením pána Scotta</i>
+
+52
+00:05:03,262 --> 00:05:04,930
+<i>je nanajvýš schopné.</i>
+
+53
+00:05:06,223 --> 00:05:09,560
+<i>Odhliadnuc od lode má dlhý pobyt</i>
+
+54
+00:05:09,893 --> 00:05:13,314
+<i>vplyv aj na medziľudské vzťahy.</i>
+
+55
+00:05:14,148 --> 00:05:16,567
+<i>Zažili sme dobré veci,</i>
+
+56
+00:05:17,484 --> 00:05:19,820
+<i>aj tie menej dobré.</i>
+
+57
+00:05:24,950 --> 00:05:27,453
+<i>A ja začínam vnímať život tu</i>
+
+58
+00:05:27,786 --> 00:05:30,247
+<i>tak trochu... ako epizódy.</i>
+
+59
+00:05:31,248 --> 00:05:34,251
+<i>Čím ďalej ideme,tým častejšie premýšľam,</i>
+
+60
+00:05:34,501 --> 00:05:36,587
+<i>čo vlastne chceme dosiahnuť.</i>
+
+61
+00:05:37,129 --> 00:05:39,923
+<i>Ak je vesmír naozaj nekonečný,</i>
+
+62
+00:05:40,257 --> 00:05:43,177
+<i>nie je náš cieľ vlastne nedosiahnuteľný?</i>
+
+63
+00:05:44,928 --> 00:05:48,265
+Enterprise <i>si má doplniť zásobyna Yorktowne,</i>
+
+64
+00:05:48,599 --> 00:05:51,769
+<i>najnovšej a najmodernejšejzákladni Federácie.</i>
+
+65
+00:05:52,102 --> 00:05:55,105
+<i>Azda si mimo zabehanej rutinytrochu oddýchneme</i>
+
+66
+00:05:55,439 --> 00:05:57,816
+<i>od záhad nepoznaného vesmíru.</i>
+
+67
+00:05:58,150 --> 00:06:01,195
+NAHRÁVANIEDO ARCHÍVU FEDERÁCIE
+
+68
+00:06:13,707 --> 00:06:15,42
+Prepáč, že meškám.
+
+69
+00:06:15,376 --> 00:06:18,379
+Z Keensera tečie nejakýzelený kyselinový sliz a Scotty
+
+70
+00:06:19,46 --> 00:06:22,466
+sa bojí, že kýchne na warp jadroa všetkých nás zabije.
+
+71
+00:06:22,883 --> 00:06:25,52
+Dočerta, čo to piješ?
+
+72
+00:06:25,469 --> 00:06:28,722
+Zvyšok toho saurianského brandy,čo sme zobrali na Thasuse.
+
+73
+00:06:29,56 --> 00:06:31,475
+Preboha, čo chceš oslepnúť?
+
+74
+00:06:31,892 --> 00:06:33,644
+Tento chľast je nelegálny.
+
+75
+00:06:34,478 --> 00:06:36,63
+Okrem toho,
+
+76
+00:06:36,563 --> 00:06:38,65
+toto som našiel v Čechovovej skrinke.
+
+77
+00:06:39,983 --> 00:06:40,818
+-No teda.-Že?
+
+78
+00:06:40,984 --> 00:06:44,71
+-Vždy som myslel, že bude na vodku.-Veď aj ja.
+
+79
+00:06:44,363 --> 00:06:47,199
+Chcel som ti zohnaťniečo na narodeniny.
+
+80
+00:06:47,366 --> 00:06:50,35
+Mám ich až o pár dní. A je mi to fuk.
+
+81
+00:06:50,202 --> 00:06:50,911
+Ja viem.
+
+82
+00:06:51,203 --> 00:06:55,332
+Nechceš ich oslavovať,lebo v ten deň ti zgegol tatko.
+
+83
+00:06:55,499 --> 00:06:56,875
+Som citlivý.
+
+84
+00:06:57,167 --> 00:06:59,878
+Na medicíne vás neučili,ako sa správať k pacientom?
+
+85
+00:07:01,505 --> 00:07:02,798
+To je to tvoje južanské čaro.
+
+86
+00:07:14,59 --> 00:07:15,727
+Veru hej. Dobrá.
+
+87
+00:07:15,894 --> 00:07:16,895
+Tá píše!
+
+88
+00:07:19,731 --> 00:07:21,525
+Zavoláš mame?
+
+89
+00:07:21,859 --> 00:07:24,69
+Samozrejme. Ale až v ten deň.
+
+90
+00:07:27,531 --> 00:07:29,74
+Som o rok starší.
+
+91
+00:07:30,242 --> 00:07:32,744
+Hej, tak to obyčajne funguje.
+
+92
+00:07:34,79 --> 00:07:36,582
+Mám o rok viac, než sa dožil on.
+
+93
+00:07:39,209 --> 00:07:41,253
+Pridal sa k Hviezdnej flotile,
+
+94
+00:07:42,421 --> 00:07:44,89
+lebo jej veril.
+
+95
+00:07:46,633 --> 00:07:47,718
+Ja som tu kvôli stávke.
+
+96
+00:07:48,969 --> 00:07:51,388
+Si tu, aby si zistil, či sa mu vyrovnáš.
+
+97
+00:07:52,723 --> 00:07:56,560
+Po celý čas sa snažíš byť George Kirk,
+
+98
+00:07:57,60 --> 00:08:00,63
+a zrazu nevieš, ako byť Jimom.
+
+99
+00:08:00,397 --> 00:08:02,65
+Prečo si tu.
+
+100
+00:08:04,902 --> 00:08:06,570
+Na dokonalý zrak
+
+101
+00:08:07,237 --> 00:08:08,739
+a hustú hrivu.
+
+102
+00:08:14,328 --> 00:08:16,997
+-Tu Kirk.<i>-Kapitán, blížime sa k Yorktownu.</i>
+
+103
+00:08:17,331 --> 00:08:19,333
+Už idem, pán Sulu.
+
+104
+00:08:20,834 --> 00:08:23,420
+O mojich narodenináchani slovo, jasné?
+
+105
+00:08:24,87 --> 00:08:26,256
+Hej, veď ma poznáš... som pán Citlivý.
+
+106
+00:08:29,927 --> 00:08:33,13
+Fíha. Tá je úžasná.
+
+107
+00:08:33,597 --> 00:08:35,849
+Hej, krásna, čo?
+
+108
+00:08:36,183 --> 00:08:38,18
+Otrasná obludnosť!
+
+109
+00:08:38,352 --> 00:08:40,521
+Nemohli sme si proste prenajaťmiesto na planéte?
+
+110
+00:08:40,771 --> 00:08:43,941
+Uprednostniť jednu planétuspomedzi pripojených svetov Federácie
+
+111
+00:08:44,107 --> 00:08:47,27
+-môže vyvolať diplomatické napätie.-Podľa vás nevyzerá napäto?
+
+112
+00:08:47,361 --> 00:08:50,364
+Ako snehová guľa vo vesmíre,čo každú chvíľu praskne!
+
+113
+00:08:51,698 --> 00:08:54,34
+Tomu vravím nadšenie, Kostra.
+
+114
+00:09:34,658 --> 00:09:36,743
+VEREJNÝ TRANSPORTÉR
+
+115
+00:10:16,700 --> 00:10:18,35
+Spock!
+
+116
+00:10:19,745 --> 00:10:21,246
+Máš chvíľku?
+
+117
+00:10:22,205 --> 00:10:23,332
+Samozrejme, Nyota.
+
+118
+00:10:24,207 --> 00:10:27,919
+Toto by som ti mala vrátiť.Veď to patrilo tvojej matke.
+
+119
+00:10:28,211 --> 00:10:30,547
+Vulkánci nemajú vo zvyku
+
+120
+00:10:30,881 --> 00:10:33,925
+brať si späť to, čo darovali.
+
+121
+00:10:44,561 --> 00:10:45,562
+Vy ste sa rozišli?
+
+122
+00:10:47,481 --> 00:10:48,649
+Čo ste jej spravili?
+
+123
+00:10:49,566 --> 00:10:51,902
+Typicky jednostranná otázka, doktor.
+
+124
+00:10:53,320 --> 00:10:57,991
+Viete, Spock, keď Pozemšťanka povie:"To je mnou, nie tebou..."
+
+125
+00:10:58,325 --> 00:10:59,993
+... tak je to rozhodne vami.
+
+126
+00:11:05,207 --> 00:11:07,334
+Prepáčte. Komandér Spock?
+
+127
+00:11:08,1 --> 00:11:10,337
+Môžeme s vami hovoriť?
+
+128
+00:11:11,338 --> 00:11:14,341
+Úžasné! Vieš, že som tu nikdy nebol?
+
+129
+00:11:14,675 --> 00:11:18,95
+Počul som, že tu majú parádne bary.
+
+130
+00:11:26,311 --> 00:11:28,605
+Veľmi sa teším, že ste prišli.
+
+131
+00:11:34,444 --> 00:11:36,780
+Ďakujem, že ste mi to oznámili.
+
+132
+00:11:38,281 --> 00:11:39,950
+Žite dlho a blažene.
+
+133
+00:11:40,492 --> 00:11:42,494
+Žite dlho a blažene.
+
+134
+00:12:04,391 --> 00:12:06,393
+2230,06 - 2263,02VEĽVYSLANEC SPOCK
+
+135
+00:12:06,727 --> 00:12:08,61
+VEĽVYSLANEC FEDERÁCIE
+
+136
+00:12:08,353 --> 00:12:11,356
+DRUHÝ DÔSTOJNÍK ENTERPRISEZÁSTUPCA VELITEĽA ENTERPRISE-A
+
+137
+00:12:30,917 --> 00:12:35,922
+SPOJENÁ FEDERÁCIA PLANÉT
+
+138
+00:12:47,893 --> 00:12:50,103
+Pozor, blíži sa neznáma loď.
+
+139
+00:12:50,437 --> 00:12:52,606
+Neidentifikovaná. Nie je z Federácie.
+
+140
+00:12:52,939 --> 00:12:56,67
+Pozor, neidentifikovaná loď.Nemáte povolený prístup.
+
+141
+00:12:56,359 --> 00:12:58,445
+Vypnite motory a čakajte na pokyny.
+
+142
+00:13:01,323 --> 00:13:03,492
+Neidentifikovaná loď, odpovedajte.
+
+143
+00:13:16,546 --> 00:13:18,48
+Hovorte normálne.
+
+144
+00:13:23,762 --> 00:13:25,138
+<i>Jazyková analýza ukončená.</i>
+
+145
+00:13:25,472 --> 00:13:26,973
+<i>Funguje to?</i>
+
+146
+00:13:27,57 --> 00:13:28,308
+UNIVERZÁLNY PREKLADAČ
+
+147
+00:13:28,725 --> 00:13:31,978
+<i>Boli sme na vedeckej misii v hmlovine.</i>
+
+148
+00:13:32,395 --> 00:13:35,482
+<i>Naša loď bola vážne poškodená.</i>
+
+149
+00:13:37,234 --> 00:13:39,486
+<i>Uletela som v záchrannom module,</i>
+
+150
+00:13:40,487 --> 00:13:44,157
+<i>skôr ako sa loď zrútilana neďalekú planétu.</i>
+
+151
+00:13:44,825 --> 00:13:49,663
+<i>Potrebujeme loď,čo sa orientuje v hmlovine.</i>
+
+152
+00:13:51,832 --> 00:13:53,41
+<i>Určite máte niekoho,</i>
+
+153
+00:13:54,125 --> 00:13:55,961
+<i>kto by nám pomohol.</i>
+
+154
+00:13:58,839 --> 00:14:02,342
+Vystopovali sme jej loďv sektore nezmapovanej hmloviny,
+
+155
+00:14:02,676 --> 00:14:05,679
+tu na 210 na 14.
+
+156
+00:14:07,97 --> 00:14:09,599
+-Diaľkový sken?-Žiadne údaje.
+
+157
+00:14:09,933 --> 00:14:12,811
+Hmlovina je veľmi hustá.Nezmapovaná oblasť.
+
+158
+00:14:13,854 --> 00:14:18,608
+<i>Enterprise</i> má najlepší navigačnýsystém. Mala by to zvládnuť.
+
+159
+00:14:18,817 --> 00:14:21,69
+Jediná loď s modernejšou technológiou
+
+160
+00:14:21,611 --> 00:14:23,488
+je ešte vo výstavbe.
+
+161
+00:14:24,155 --> 00:14:26,658
+Ale neposielam iba loď.
+
+162
+00:14:28,618 --> 00:14:30,78
+Zvolám posádku.
+
+163
+00:14:30,203 --> 00:14:31,162
+Kapitán.
+
+164
+00:14:31,872 --> 00:14:34,457
+Hviezdna flotila mi poslala vašu žiadosť
+
+165
+00:14:34,666 --> 00:14:37,836
+o miesto viceadmirála na tejto základni.
+
+166
+00:14:38,503 --> 00:14:39,838
+Áno, madam.
+
+167
+00:14:42,173 --> 00:14:43,842
+Ak smiem,
+
+168
+00:14:44,217 --> 00:14:48,638
+odporučil by som na miestokapitána <i>Enterprise</i> komandéra Spocka.
+
+169
+00:14:48,972 --> 00:14:52,851
+Je príkladný dôstojník Hviezdnej flotily.Bude výborný kapitán.
+
+170
+00:14:54,394 --> 00:14:55,896
+Viete, nie je nič nezvyčajné,
+
+171
+00:14:57,314 --> 00:14:58,815
+ani pre kapitána,
+
+172
+00:14:59,149 --> 00:15:01,67
+ak chce odísť.
+
+173
+00:15:01,985 --> 00:15:05,989
+V obrovskom vesmíreneexistuje relatívny smer.
+
+174
+00:15:06,323 --> 00:15:08,325
+Ste tam iba vy,
+
+175
+00:15:08,658 --> 00:15:11,494
+vaša loď, vaša posádka.
+
+176
+00:15:12,495 --> 00:15:15,206
+Ani neviete ako... a stratíte sa.
+
+177
+00:15:16,166 --> 00:15:19,836
+Prednesiem to pred radou.Preberieme to, keď sa vrátite.
+
+178
+00:15:21,379 --> 00:15:22,380
+Madam.
+
+179
+00:15:32,682 --> 00:15:35,18
+-Pán Spock.-Kapitán.
+
+180
+00:15:37,187 --> 00:15:38,688
+-Napadlo mi...-Možno že...
+
+181
+00:15:39,22 --> 00:15:41,358
+-Nie, prosím.-Až po vás, kapitán.
+
+182
+00:15:41,691 --> 00:15:42,400
+Trvám na tom.
+
+183
+00:15:44,569 --> 00:15:47,197
+Po misii by sme si mali sadnúť.
+
+184
+00:15:47,530 --> 00:15:51,34
+-Potrebujem s vami niečo prebrať.-Aj ja vám musím niečo povedať.
+
+185
+00:15:57,540 --> 00:15:58,917
+Sme dobrý tím. Však?
+
+186
+00:16:01,544 --> 00:16:02,879
+Verím, že áno.
+
+187
+00:16:07,384 --> 00:16:08,426
+Trvám na tom.
+
+188
+00:16:28,446 --> 00:16:30,407
+Poručíčka Uhura, zapnite interkom.
+
+189
+00:16:30,615 --> 00:16:31,950
+Áno, kapitán.
+
+190
+00:16:34,953 --> 00:16:36,621
+Pozor, posádka <i>Enterprise.</i>
+
+191
+00:16:37,455 --> 00:16:40,291
+<i>Naša misia je jasná.</i>
+
+192
+00:16:40,625 --> 00:16:44,629
+<i>Zachrániť posádku z planétyv nezmapovanom vesmíre.</i>
+
+193
+00:16:44,963 --> 00:16:47,632
+<i>Naša dráha povediecez nestabilnú hmlovinu,</i>
+
+194
+00:16:47,966 --> 00:16:51,803
+<i>z ktorej nebudeme môcťkomunikovať s Flotilou.</i>
+
+195
+00:16:52,262 --> 00:16:53,638
+<i>Takže v tom budeme sami.</i>
+
+196
+00:16:54,597 --> 00:16:58,351
+Enterprise <i>má niečo,čo žiadna iná loď flotily:</i>
+
+197
+00:16:58,685 --> 00:16:59,811
+<i>vás.</i>
+
+198
+00:17:00,812 --> 00:17:04,816
+<i>Už sme pochopili,že neexistuje nič nepoznané,</i>
+
+199
+00:17:06,818 --> 00:17:08,653
+<i>iba dočasne ukryté.</i>
+
+200
+00:17:09,320 --> 00:17:10,447
+<i>Kirk končí.</i>
+
+201
+00:17:30,467 --> 00:17:33,470
+Merače hlásia zníženiehustoty mračna, pane.
+
+202
+00:17:45,523 --> 00:17:48,318
+<i>To je Altamid. Tam uviazla moja loď.</i>
+
+203
+00:18:03,500 --> 00:18:07,3
+Blížime sa k Altamidu. Planéte triedy M.
+
+204
+00:18:07,670 --> 00:18:11,591
+Husto rozvinutá pod povrchom.Na povrchu žiadne formy života.
+
+205
+00:18:11,925 --> 00:18:15,53
+Niečo sa blíži, pane!Mieri k nám neznáma loď.
+
+206
+00:18:15,261 --> 00:18:16,930
+-Poručíčka Uhura, pozdravte ich.-Áno, kapitán.
+
+207
+00:18:23,520 --> 00:18:24,854
+Neodpovedajú.
+
+208
+00:18:25,188 --> 00:18:27,273
+Zachytávam nejaký signál.
+
+209
+00:18:30,318 --> 00:18:31,361
+Rušia nám vysielanie.
+
+210
+00:18:32,320 --> 00:18:34,322
+Zväčšiť, pán Sulu.
+
+211
+00:18:40,495 --> 00:18:41,454
+Čo to je?
+
+212
+00:18:45,41 --> 00:18:46,543
+Aktivujte štíty! Červený poplach!
+
+213
+00:18:52,924 --> 00:18:54,425
+Strieľajte.
+
+214
+00:19:02,225 --> 00:19:05,937
+Fázery sú skoro neúčinnéa torpéda ich nedokážu zamerať!
+
+215
+00:19:06,521 --> 00:19:07,856
+Páľte všetkým, čo máme!
+
+216
+00:19:08,148 --> 00:19:10,191
+Kapitán, na takúto akciunie sme vybavení.
+
+217
+00:19:21,911 --> 00:19:23,413
+Frekvencie štítov sú neúčinné!
+
+218
+00:19:23,663 --> 00:19:26,666
+Zničili nám deflektor! Štíty nefungujú!
+
+219
+00:19:28,1 --> 00:19:30,587
+-Aktivujte warp a letíme preč, pán Sulu.-Áno, pane.
+
+220
+00:19:38,261 --> 00:19:41,598
+-Prečo sa nehýbeme?-Nemôžem zapnúť warp pohon, pane!
+
+221
+00:19:45,268 --> 00:19:47,937
+Scotty, okamžite aktivujte warp!
+
+222
+00:19:49,439 --> 00:19:51,608
+Nedá sa, pane. Naše gondoly...
+
+223
+00:19:59,949 --> 00:20:01,284
+Sú preč!
+
+224
+00:20:02,327 --> 00:20:05,246
+Bezpečnosť, spustitevšetky núdzové postupy.
+
+225
+00:20:05,330 --> 00:20:07,457
+<i>Aktívny protokol 28 kód 1 alfa 0.</i>
+
+226
+00:20:07,790 --> 00:20:09,542
+<i>Celá posádka na pohotovostné pozície.</i>
+
+227
+00:20:33,24 --> 00:20:35,652
+Poškodený trup na palubách 12 až 15...
+
+228
+00:20:35,985 --> 00:20:38,905
+... 6, 9, 31 a 21, pane.
+
+229
+00:20:39,239 --> 00:20:39,948
+<i>Kapitán!</i>
+
+230
+00:20:40,114 --> 00:20:43,534
+Skúsim presmerovať rezervy energiez warp jadra do impulzných motorov.
+
+231
+00:20:43,993 --> 00:20:46,496
+Keby sme sa vrátili do hmloviny,mohli by sme sa ich striasť.
+
+232
+00:20:46,663 --> 00:20:47,664
+Robte, čo treba, Scotty.
+
+233
+00:20:48,581 --> 00:20:49,540
+Pidimuž!
+
+234
+00:20:49,707 --> 00:20:50,667
+Poďme.
+
+235
+00:21:15,900 --> 00:21:17,402
+VZDUCH ČISTÝ, KRALL.
+
+236
+00:22:00,486 --> 00:22:03,906
+Pripoj rozvody plazmya na môj povel ich presmeruj!
+
+237
+00:22:17,545 --> 00:22:19,964
+MÁM ABRONATH.
+
+238
+00:22:20,798 --> 00:22:22,258
+ZAISTITE LOĎ.
+
+239
+00:22:26,971 --> 00:22:28,139
+<i>-Kapitán.</i>-Hovorte, Spock.
+
+240
+00:22:28,306 --> 00:22:31,476
+Identifikoval som jedinca,ktorý zrejme vedie útočnú skupinu.
+
+241
+00:22:32,226 --> 00:22:35,188
+Dostal sa do archívu a vzal odtiaľartefakt z našej misie na Teenax.
+
+242
+00:22:35,730 --> 00:22:36,939
+Držte sa ďalej, kým...
+
+243
+00:22:37,940 --> 00:22:38,858
+Spock!
+
+244
+00:22:39,233 --> 00:22:40,318
+Spock!
+
+245
+00:22:40,818 --> 00:22:42,862
+Vy dvaja, so mnou.Sulu, preberáte velenie.
+
+246
+00:22:42,987 --> 00:22:43,905
+Áno, pane.
+
+247
+00:23:07,53 --> 00:23:08,471
+Preboha.
+
+248
+00:23:10,98 --> 00:23:11,641
+KRITICKÝ STAV
+
+249
+00:23:11,808 --> 00:23:13,17
+Čo to je, dočerta?
+
+250
+00:23:17,897 --> 00:23:18,898
+Doktor?
+
+251
+00:23:20,817 --> 00:23:21,776
+ČERVENÝPOPLACH
+
+252
+00:23:21,859 --> 00:23:23,319
+Musíme okamžite odísť!
+
+253
+00:23:58,980 --> 00:24:00,648
+Kapitán
+
+254
+00:24:01,691 --> 00:24:03,25
+Kirk.
+
+255
+00:24:21,544 --> 00:24:23,629
+Áno, impulzný pohon na 100 %.
+
+256
+00:24:23,796 --> 00:24:25,298
+Výborne, pán Scott!
+
+257
+00:24:25,506 --> 00:24:28,92
+-Najvyššou rýchlosťou k hmlovine.-Áno.
+
+258
+00:24:45,818 --> 00:24:47,487
+KRALL, TÁ LOĎ SA OTÁČA!
+
+259
+00:24:49,780 --> 00:24:51,574
+ODREŽTE JU.
+
+260
+00:25:57,682 --> 00:25:58,933
+Kirk mostíku.
+
+261
+00:25:59,517 --> 00:26:02,19
+Strácame inerciálne tlmiče!
+
+262
+00:26:02,353 --> 00:26:04,188
+V celej lodi zlyhávajú systémy, kapitán.
+
+263
+00:26:04,772 --> 00:26:09,777
+<i>Núdzové priečky sa zatvárajú,integrita konštrukcie 18 % a klesá!</i>
+
+264
+00:26:10,695 --> 00:26:12,780
+Opustite loď, pán Sulu.
+
+265
+00:26:14,782 --> 00:26:16,367
+Spustite alarm.
+
+266
+00:26:19,579 --> 00:26:21,914
+<i>Opustite loď.Okamžite evakuujte celú posádku.</i>
+
+267
+00:26:22,206 --> 00:26:25,543
+Musíme dať modulom šancu uniknúť.<i>Môžete odviesť tie lode?</i>
+
+268
+00:26:25,710 --> 00:26:28,462
+Impulzné motory sa pokúšajúbrať energiu z warp rezervy.
+
+269
+00:26:28,879 --> 00:26:31,924
+<i>Nepohneme sa, kým neoddelíme tanier.</i>
+
+270
+00:26:33,175 --> 00:26:34,510
+Spravím to.
+
+271
+00:26:34,844 --> 00:26:36,262
+Rozumiem, pane.
+
+272
+00:26:36,596 --> 00:26:40,933
+<i>Opustite loď.Okamžite evakuujte celú posádku.</i>
+
+273
+00:26:48,899 --> 00:26:51,68
+Musíme vás dostať do modulu. Poďme.
+
+274
+00:26:51,360 --> 00:26:52,778
+Choďte! Ensing Syl.
+
+275
+00:26:54,989 --> 00:26:56,324
+Musíte mi pomôcť.
+
+276
+00:26:57,408 --> 00:26:58,576
+Áno, pane.
+
+277
+00:27:29,690 --> 00:27:31,192
+Preboha.
+
+278
+00:27:31,400 --> 00:27:32,985
+Spock, zajímajú posádku!
+
+279
+00:27:34,362 --> 00:27:37,198
+<i>Opustite loď. Okamžite evakuujte</i>
+
+280
+00:27:37,531 --> 00:27:39,867
+<i>celú posádku.</i>
+
+281
+00:28:09,397 --> 00:28:10,481
+V poriadku?
+
+282
+00:28:10,648 --> 00:28:14,443
+-Tanier už mal byť uvoľnený!-Má to spraviť kapitán!
+
+283
+00:28:21,575 --> 00:28:24,578
+<i>Okamžite evakuujte celú posádku.</i>
+
+284
+00:29:38,903 --> 00:29:40,404
+ODDELENIE TANIERAPOTVRDIŤ?
+
+285
+00:30:06,597 --> 00:30:09,683
+Impulzné motory berú energiuz pomocných generátorov.
+
+286
+00:30:19,652 --> 00:30:20,903
+Kapitán!
+
+287
+00:30:23,739 --> 00:30:26,158
+Koľkí členovia posádky sú v tanieri?
+
+288
+00:30:27,326 --> 00:30:28,494
+Ani jeden.
+
+289
+00:30:28,828 --> 00:30:30,830
+Ale ak správne čítam údaje,
+
+290
+00:30:31,80 --> 00:30:32,915
+tak ich útočníci zajímajú.
+
+291
+00:30:33,165 --> 00:30:37,795
+Drží nás gravitácia planéty.Nemôžeme vycúvať.
+
+292
+00:30:42,675 --> 00:30:44,343
+Choďte do modulov Kelvin.
+
+293
+00:30:44,760 --> 00:30:46,262
+-Áno, pane.-Rozkaz, kapitán.
+
+294
+00:30:46,428 --> 00:30:48,13
+Poďme, no tak!
+
+295
+00:33:17,371 --> 00:33:18,288
+Čechov!
+
+296
+00:33:26,380 --> 00:33:28,799
+Vedeli ste to.Vedeli ste, že nás napadnú.
+
+297
+00:33:29,216 --> 00:33:30,50
+<i>Vy to nechápete.</i>
+
+298
+00:33:30,718 --> 00:33:32,302
+Kapitán! Kapitán Kirk!
+
+299
+00:33:39,226 --> 00:33:41,20
+<i>Áno. Klamala som.</i>
+
+300
+00:33:42,730 --> 00:33:45,149
+<i>Našu loď napadli.</i>
+
+301
+00:33:46,900 --> 00:33:49,403
+Čechov,skontrolujte komunikáciu ostatných.
+
+302
+00:33:50,154 --> 00:33:50,779
+Kto je to?
+
+303
+00:33:51,739 --> 00:33:53,490
+<i>Volá sa Krall.</i>
+
+304
+00:33:54,575 --> 00:33:57,453
+<i>Zajal moju posádku. Ako tú vašu.</i>
+
+305
+00:33:58,78 --> 00:34:00,330
+Odkiaľ toho toľko vie o <i>Enterprise?</i>
+
+306
+00:34:00,914 --> 00:34:03,917
+<i>Viem len, že ak to urobím,</i>
+
+307
+00:34:05,836 --> 00:34:07,421
+<i>pustí moju posádku.</i>
+
+308
+00:34:07,671 --> 00:34:10,591
+Čechov,zachytávate niečo na skeneroch?
+
+309
+00:34:11,592 --> 00:34:13,427
+Nič, pane.
+
+310
+00:34:14,762 --> 00:34:17,97
+-Čo ak sú...?-Nie, nie.
+
+311
+00:34:17,639 --> 00:34:18,974
+Zajal ich.
+
+312
+00:34:19,266 --> 00:34:20,934
+Musíme nájsť tanier.
+
+313
+00:34:21,101 --> 00:34:24,104
+Aj najslabšie skenovacie systémymajú väčší dosah ako trikodér.
+
+314
+00:34:24,271 --> 00:34:25,731
+Áno, kapitán, to je možné.
+
+315
+00:34:26,940 --> 00:34:28,275
+<i>Kapitán.</i>
+
+316
+00:34:28,692 --> 00:34:30,152
+<i>Iba som chránila svoju posádku.</i>
+
+317
+00:35:26,375 --> 00:35:28,127
+HĽADÁME KAPITÁNA.
+
+318
+00:35:31,4 --> 00:35:32,256
+Ako sa voláte?
+
+319
+00:35:35,509 --> 00:35:36,718
+Ako to, že ovládate náš jazyk?
+
+320
+00:35:37,761 --> 00:35:40,97
+Poznám váš druh.
+
+321
+00:35:41,682 --> 00:35:44,518
+Som poručíčka Nyota Uhuraz <i>U.S.S. Enterprise.</i>
+
+322
+00:35:44,810 --> 00:35:47,62
+A vy ste sa dopustilivojnového aktu proti...
+
+323
+00:35:47,187 --> 00:35:48,230
+Federácii!
+
+324
+00:35:50,607 --> 00:35:54,27
+Federácia je vojnový akt.
+
+325
+00:35:54,444 --> 00:35:56,71
+Napadli ste nás.
+
+326
+00:36:00,742 --> 00:36:01,994
+Váš kapitán...
+
+327
+00:36:04,79 --> 00:36:07,583
+Prečo ste sa zaňho obetovali?
+
+328
+00:36:07,958 --> 00:36:09,918
+Aj on by to pre mňa urobil.
+
+329
+00:36:10,419 --> 00:36:13,672
+A ak unikol z lode, tak po nás príde.
+
+330
+00:36:15,174 --> 00:36:19,845
+S tým počítam, poručíčka Uhura.
+
+331
+00:36:48,790 --> 00:36:50,792
+Neverím.
+
+332
+00:37:00,260 --> 00:37:01,428
+Preboha, Spock.
+
+333
+00:37:06,308 --> 00:37:07,976
+Sadnite si sem.
+
+334
+00:37:08,477 --> 00:37:09,311
+Dobre.
+
+335
+00:37:09,645 --> 00:37:11,396
+Sadnite si. Pomaly.
+
+336
+00:37:15,67 --> 00:37:16,68
+Dobre.
+
+337
+00:37:16,276 --> 00:37:18,946
+Teraz sa uvoľnite. Budete v poriadku.
+
+338
+00:37:19,238 --> 00:37:23,116
+Silený optimizmus vo vašom hlasema má zrejme upokojiť.
+
+339
+00:37:23,283 --> 00:37:24,159
+Viem, je to nahovno.
+
+340
+00:37:24,618 --> 00:37:29,373
+Uniká mi podobnosť medzi výkalmia našou situáciou.
+
+341
+00:37:29,748 --> 00:37:31,875
+-Hej, čo robíte?-Musíme sa pohnúť.
+
+342
+00:37:32,42 --> 00:37:33,877
+Máte prepichnuté slabiny!
+
+343
+00:37:34,44 --> 00:37:36,380
+-Čas je rozhodujúci faktor.-Veď práve.
+
+344
+00:37:36,546 --> 00:37:38,548
+Ak to nevyberiem, je po vás.
+
+345
+00:37:38,966 --> 00:37:41,426
+Ak to vyberiem a nezastavím krvácanie,je po vás.
+
+346
+00:37:42,219 --> 00:37:43,971
+Ani jedna možnosť sa mi nepáči.
+
+347
+00:37:44,137 --> 00:37:45,931
+Verte či nie, ani mne.
+
+348
+00:37:48,809 --> 00:37:51,144
+Ak si správne spomínam,
+
+349
+00:37:51,478 --> 00:37:53,146
+tak Vulkánci
+
+350
+00:37:53,480 --> 00:37:56,149
+majú srdce tam, kde majú ľudia pečeň.
+
+351
+00:37:56,400 --> 00:37:58,68
+Správne, doktor.
+
+352
+00:37:58,568 --> 00:38:00,821
+Tým sa všeličo vysvetľuje.
+
+353
+00:38:02,990 --> 00:38:06,159
+Mali ste šťastie. Kúsok doľava,
+
+354
+00:38:08,578 --> 00:38:10,414
+a boli by ste mŕtvy.
+
+355
+00:38:11,581 --> 00:38:13,333
+Nechápem to, Spock.
+
+356
+00:38:13,667 --> 00:38:16,3
+Prečo nás napadli?
+
+357
+00:38:17,587 --> 00:38:21,591
+Kvôli nejakej somarine,ktorú tí krpáni nechceli?
+
+358
+00:38:21,758 --> 00:38:25,595
+Nie je rozumné zľahčovať,čomu nerozumiete, doktor.
+
+359
+00:38:25,971 --> 00:38:28,807
+Môžeme bezpečne predpokladať,že to nie je iba "somarina".
+
+360
+00:38:29,933 --> 00:38:32,853
+Spock, tuším ste maurazili hneď dvakrát.
+
+361
+00:38:39,568 --> 00:38:40,569
+Dobre.
+
+362
+00:38:41,111 --> 00:38:43,530
+Takže, Spock, len jednu otázku.
+
+363
+00:38:44,614 --> 00:38:46,283
+-Vaša najobľúbenejšia farba?-Nerozumiem, ako to súvisí.
+
+364
+00:38:52,956 --> 00:38:55,125
+Vraj to bolí menej, keď to nečakáte.
+
+365
+00:38:56,293 --> 00:39:00,714
+Aby som sa vyjadril jazykom,ktorý je vám blízky, tak vaša teória je
+
+366
+00:39:01,48 --> 00:39:02,466
+nahovno.
+
+367
+00:39:05,552 --> 00:39:06,678
+Musíme odtiaľto vypadnúť.
+
+368
+00:39:38,335 --> 00:39:40,87
+To snáď nie je pravda.
+
+369
+00:39:45,300 --> 00:39:46,635
+Zdravím vás.
+
+370
+00:39:47,52 --> 00:39:50,305
+Som Montgomery Scott. A kto ste vy?
+
+371
+00:39:52,808 --> 00:39:56,645
+Pozor, chlapče.Viem sa brániť, keď treba.
+
+372
+00:40:41,314 --> 00:40:42,774
+A nevracajte sa!
+
+373
+00:40:43,942 --> 00:40:45,944
+Ale sme im dali, čo, dievča?
+
+374
+00:40:46,945 --> 00:40:49,72
+To patrí Hviezdnej flotile.Nemôžeš si to zobrať.
+
+375
+00:40:49,448 --> 00:40:51,950
+Ale dnes som štedrý, ber si to.
+
+376
+00:40:53,452 --> 00:40:54,411
+Odkiaľ to máš?
+
+377
+00:40:55,78 --> 00:40:56,788
+-Angličtina?-Naučila som sa ju v dome.
+
+378
+00:40:56,872 --> 00:40:59,40
+-Odkiaľ to máš?-To je odznak Hviezdnej flotily.
+
+379
+00:40:59,207 --> 00:41:00,83
+Čo znamená?
+
+380
+00:41:00,459 --> 00:41:03,378
+Som dôstojník Hviezdnej flotily.Technické oddelenie.
+
+381
+00:41:05,213 --> 00:41:07,299
+-Technické?-Hej. Opravujem veci.
+
+382
+00:41:07,466 --> 00:41:08,717
+Viem, čo je technik.
+
+383
+00:41:11,11 --> 00:41:13,680
+Nepatríš k tým sviniarom,čo mi zničili loď, však?
+
+384
+00:41:15,307 --> 00:41:16,975
+To beriem ako nie.
+
+385
+00:41:18,894 --> 00:41:21,563
+Je to Krall. On a jeho...
+
+386
+00:41:22,314 --> 00:41:23,273
+... včely.
+
+387
+00:41:23,398 --> 00:41:25,859
+Prehľadávajú hviezdy kvôli stroju smrti.
+
+388
+00:41:26,193 --> 00:41:27,777
+Preto ste tu.
+
+389
+00:41:27,986 --> 00:41:29,654
+Preto sme tu my všetci.
+
+390
+00:41:29,863 --> 00:41:31,448
+Aj tí traja smradi?
+
+391
+00:41:32,782 --> 00:41:35,702
+Padli z oblohy ako ty a ja.
+
+392
+00:41:37,996 --> 00:41:39,331
+Poď so mnou.
+
+393
+00:41:39,498 --> 00:41:40,332
+Už aj!
+
+394
+00:41:40,540 --> 00:41:43,210
+Počkaj, dievča. Dnes mám zlý deň.
+
+395
+00:41:43,793 --> 00:41:45,545
+Musím nájsť kamošov z posádky.
+
+396
+00:41:46,838 --> 00:41:48,840
+Pomôžem ti nájsť kamošov.
+
+397
+00:41:49,174 --> 00:41:50,383
+A potom pomôžeš ty mne.
+
+398
+00:41:51,593 --> 00:41:52,677
+S čím?
+
+399
+00:41:54,179 --> 00:41:55,222
+Mám ti niečo opraviť?
+
+400
+00:41:55,639 --> 00:41:58,183
+Áno. Pomôžeš mi a ja tebe.
+
+401
+00:41:59,601 --> 00:42:03,271
+Dnes už asi nedostanem lepšiu ponuku,takže udaj smer.
+
+402
+00:42:04,22 --> 00:42:05,23
+Dobre.
+
+403
+00:42:05,190 --> 00:42:06,691
+Som Jaylah.
+
+404
+00:42:06,983 --> 00:42:09,486
+-Ty si Montgomery Scott.-Hej, Scotty.
+
+405
+00:42:10,904 --> 00:42:12,614
+Tak poď... Montgomery Scotty.
+
+406
+00:42:14,991 --> 00:42:16,201
+Dobre, počkaj.
+
+407
+00:42:32,926 --> 00:42:33,885
+<i>Enterprise.</i>
+
+408
+00:42:35,470 --> 00:42:36,972
+Asi nemá
+
+409
+00:42:37,305 --> 00:42:40,183
+energiu ani na mostík, kapitán.
+
+410
+00:42:42,894 --> 00:42:45,397
+Stále má zopár trikov v rukáve.
+
+411
+00:42:47,482 --> 00:42:48,984
+Stavím sa.
+
+412
+00:42:51,570 --> 00:42:53,405
+McCoy <i>Enterprise</i>. Odpovedzte.
+
+413
+00:42:54,72 --> 00:42:55,907
+McCoy <i>Enterprise.</i>
+
+414
+00:42:58,493 --> 00:43:01,663
+Opatrne, Spock.Len som vám to provizórne zafixoval.
+
+415
+00:43:01,913 --> 00:43:03,290
+Ja rozumiem, doktor.
+
+416
+00:43:09,796 --> 00:43:11,47
+Fascinujúce.
+
+417
+00:43:11,339 --> 00:43:13,675
+Hrozivé. Temné. Nebezpečné.
+
+418
+00:43:16,970 --> 00:43:18,305
+Ideme dnu.
+
+419
+00:43:39,326 --> 00:43:44,247
+Takéto isté symbolyboli na tom artefakte z útoku.
+
+420
+00:43:44,456 --> 00:43:46,374
+Podľa vás pochádzajú odtiaľto?
+
+421
+00:43:47,292 --> 00:43:48,960
+Zdá sa, že áno.
+
+422
+00:43:52,547 --> 00:43:53,506
+Dofrasa, Spock.
+
+423
+00:43:56,217 --> 00:43:57,719
+Opatrne. Opatrne.
+
+424
+00:44:03,892 --> 00:44:05,226
+Rýchlo.
+
+425
+00:44:06,311 --> 00:44:08,897
+-Už sme tam?-Prestaň sa pýtať.
+
+426
+00:44:09,230 --> 00:44:11,650
+-Prepáč.-Tadeto. Poď.
+
+427
+00:44:12,692 --> 00:44:16,363
+Pozor, kam stúpaš.Aby si nespustil moje pasce.
+
+428
+00:44:18,740 --> 00:44:20,200
+Šikovné.
+
+429
+00:44:20,867 --> 00:44:22,535
+Kde to sme?
+
+430
+00:44:22,911 --> 00:44:25,872
+-V mojom dome.-Tvojom dome?
+
+431
+00:44:26,81 --> 00:44:28,708
+Počkaj. To je loď?
+
+432
+00:44:29,42 --> 00:44:32,379
+Pomôžem ti nájsť kamošov,ty mi pomôžeš opraviť ju.
+
+433
+00:44:32,712 --> 00:44:35,48
+A navždy odletím z tejto planéty.
+
+434
+00:44:36,216 --> 00:44:39,52
+Počkaj. To je tvoja loď?
+
+435
+00:44:39,386 --> 00:44:41,388
+Nie, Montgomery Scotty.
+
+436
+00:44:42,722 --> 00:44:44,57
+Vaša.
+
+437
+00:44:45,266 --> 00:44:46,768
+Ach, Bože môj.
+
+438
+00:44:47,60 --> 00:44:51,439
+U.S.S. FRANKLINHVIEZDNA FLOTILA REG. Č. NX 326
+
+439
+00:44:54,734 --> 00:44:57,237
+Kapitán, zdá sa, že máme energiu.
+
+440
+00:44:57,737 --> 00:45:00,407
+Tak na mostík a pohľadajme ostatných.
+
+441
+00:45:41,698 --> 00:45:46,286
+Konzola je nepoškodená, kapitán.Skúsim do nej dostať energiu.
+
+442
+00:45:47,36 --> 00:45:50,790
+Rýchlo. Keď sa to tu rozsvieti,pritiahneme neželanú pozornosť.
+
+443
+00:45:52,667 --> 00:45:55,170
+-Myslíte, že ich nájdete?-Áno, kapitán.
+
+444
+00:45:55,503 --> 00:45:59,174
+Prekonfigurujem skenery,aby sa naladili na signály posádky.
+
+445
+00:46:03,178 --> 00:46:05,513
+Poďte so mnou. Niečo som si zabudol.
+
+446
+00:46:17,400 --> 00:46:18,902
+To je teda poriadna nádcha.
+
+447
+00:46:19,194 --> 00:46:20,320
+Výborne, Keenser.
+
+448
+00:46:22,530 --> 00:46:25,867
+O 15 minút prídu ďalšie stráže. Ideme.
+
+449
+00:46:34,42 --> 00:46:35,376
+Poďme. Ideme.
+
+450
+00:46:41,716 --> 00:46:42,967
+Poďte.
+
+451
+00:46:51,392 --> 00:46:53,394
+Toto je sonda Magellan.
+
+452
+00:46:53,728 --> 00:46:56,940
+Federácia ich používalana hľadanie trasy cez hmlovinu.
+
+453
+00:46:57,315 --> 00:46:59,317
+Načo mu je?
+
+454
+00:47:26,845 --> 00:47:28,12
+Čo vidíte?
+
+455
+00:47:31,516 --> 00:47:35,228
+Nabúral sa do subpriestorovýchspojení medzi sondami.
+
+456
+00:47:35,311 --> 00:47:37,647
+Môžeme cez ne vyslať núdzový signál?
+
+457
+00:47:38,314 --> 00:47:39,232
+Skúsim to.
+
+458
+00:47:44,654 --> 00:47:45,822
+Vyslaný.
+
+459
+00:47:46,155 --> 00:47:48,491
+Dostal sa do databázy Yorktownu.
+
+460
+00:47:49,993 --> 00:47:53,329
+Má súbory údajov Flotily,lodné protokoly,
+
+461
+00:47:53,663 --> 00:47:55,331
+vrátane <i>Enterprise.</i>
+
+462
+00:47:56,791 --> 00:47:59,2
+Po celý čas nás sledoval.
+
+463
+00:48:14,517 --> 00:48:15,685
+<i>Kapitán,</i>
+
+464
+00:48:16,394 --> 00:48:19,63
+<i>ten artefakt bol po celý čas na lodi?</i>
+
+465
+00:48:19,397 --> 00:48:23,192
+Nesmeli ma s ním chytiť,tak som ho schoval sem.
+
+466
+00:48:29,73 --> 00:48:31,492
+<i>Povedzte Krallovi, že mám Abronath.</i>
+
+467
+00:48:33,244 --> 00:48:35,747
+<i>Uveríte každej smutnej historke?</i>
+
+468
+00:48:38,625 --> 00:48:40,209
+Každej nie.
+
+469
+00:48:40,877 --> 00:48:43,129
+Odložte fázer.
+
+470
+00:48:43,296 --> 00:48:44,255
+Prosím.
+
+471
+00:48:48,718 --> 00:48:50,219
+Máte to, Čechov?
+
+472
+00:48:50,470 --> 00:48:53,389
+Áno, kapitán, vystopoval som jej hovor.
+
+473
+00:48:59,646 --> 00:49:00,855
+Načo to Krall chce?
+
+474
+00:49:02,690 --> 00:49:04,275
+<i>Aby vás zachránil</i>
+
+475
+00:49:04,901 --> 00:49:06,235
+<i>pred vami samými.</i>
+
+476
+00:49:06,402 --> 00:49:07,570
+Kapitán!
+
+477
+00:49:52,365 --> 00:49:55,785
+-Ste v poriadku?-Áno, kapitán, ale sme v pasci!
+
+478
+00:50:06,170 --> 00:50:07,547
+Môžete to naštartovať?
+
+479
+00:50:07,714 --> 00:50:10,216
+Naznačujete, že mámaktivovať manévrovacie trysky?!
+
+480
+00:50:10,383 --> 00:50:13,720
+-Prijímam aj iné návrhy.-Dobre.
+
+481
+00:50:16,180 --> 00:50:17,515
+Je tu problém.
+
+482
+00:50:17,682 --> 00:50:21,185
+Palivo je napustené,ale nemôžem ho zapáliť.
+
+483
+00:50:21,561 --> 00:50:24,897
+Kapitán, v podstate stojímena obrovskej bombe.
+
+484
+00:50:25,231 --> 00:50:27,400
+-Ak netrafíte spaľovací kompresor...-Trafím.
+
+485
+00:50:27,567 --> 00:50:29,694
+Viete vôbec, ako vyzerá?
+
+486
+00:50:29,861 --> 00:50:31,29
+Štvorcový, nie?
+
+487
+00:50:31,112 --> 00:50:32,989
+Nie, pane, okrúhly.
+
+488
+00:50:33,239 --> 00:50:34,323
+Veď vravím.
+
+489
+00:50:41,539 --> 00:50:42,832
+Bežte!
+
+490
+00:50:57,972 --> 00:50:59,223
+Bežte!
+
+491
+00:51:23,498 --> 00:51:24,832
+Čechov!
+
+492
+00:51:57,865 --> 00:51:59,367
+Čechov! Pohyb!
+
+493
+00:52:58,259 --> 00:53:01,262
+Myslíte si, že viete,
+
+494
+00:53:01,596 --> 00:53:05,99
+čo znamená obeta?
+
+495
+00:53:08,936 --> 00:53:11,355
+Federácia vás učí,
+
+496
+00:53:11,606 --> 00:53:15,109
+že konflikt by nemal existovať.
+
+497
+00:53:19,864 --> 00:53:21,616
+Ale bez boja
+
+498
+00:53:23,618 --> 00:53:27,455
+nikdy nezistíte, kto vlastne ste.
+
+499
+00:53:28,247 --> 00:53:30,249
+Ani netušíte, kto sme.
+
+500
+00:53:31,250 --> 00:53:32,919
+Ale čoskoro to zistíte.
+
+501
+00:53:33,794 --> 00:53:38,466
+Máte na mysli ten núdzový signál,čo ste podľa vás vyslali?
+
+502
+00:53:41,302 --> 00:53:43,346
+Zmenili sme súradnice.
+
+503
+00:53:44,472 --> 00:53:47,642
+Vaše záchranné lodesa stratia v hmlovine
+
+504
+00:53:47,892 --> 00:53:50,228
+a základňa zostane bez obrany.
+
+505
+00:53:51,979 --> 00:53:53,981
+Chcete napadnúť Yorktown.
+
+506
+00:53:54,315 --> 00:53:59,320
+Milióny životov zo svetov Federáciesa držia za ručičky.
+
+507
+00:54:00,821 --> 00:54:02,657
+Dokonalý cieľ.
+
+508
+00:54:02,990 --> 00:54:06,327
+Mýlite sa. V jednote je sila.
+
+509
+00:54:11,332 --> 00:54:14,835
+Sila druhých, poručíčka,
+
+510
+00:54:15,86 --> 00:54:17,755
+ma drží pri živote.
+
+511
+00:54:18,839 --> 00:54:19,423
+Nie!
+
+512
+00:54:44,282 --> 00:54:45,700
+<i>Spock.</i>
+
+513
+00:54:46,534 --> 00:54:47,827
+Spock, zobuďte sa, dofrasa!
+
+514
+00:54:51,455 --> 00:54:53,791
+Som plne pri vedomí, doktor.
+
+515
+00:54:54,292 --> 00:54:57,378
+Iba som rozjímal nad smrteľnosťou.
+
+516
+00:54:58,45 --> 00:54:59,714
+Máte filozofickú chvíľku, čo?
+
+517
+00:55:02,717 --> 00:55:05,219
+To sa pri takej strate krvi stáva.
+
+518
+00:55:07,805 --> 00:55:11,309
+Pýtali ste sa, prečo sme sas poručíčkou Uhurou rozišli.
+
+519
+00:55:12,727 --> 00:55:16,397
+Po skaze Vulkánu som začal premýšľať,
+
+520
+00:55:16,731 --> 00:55:19,150
+že mám isté povinnostivoči svojmu druhu.
+
+521
+00:55:20,901 --> 00:55:24,71
+Napadlo vám, že by ste malirobiť malých Vulkáncov, čo?
+
+522
+00:55:25,656 --> 00:55:28,159
+Chápem, že ju to rozrušilo.
+
+523
+00:55:29,160 --> 00:55:31,78
+Mal som v úmysle prebrať to s ňou,
+
+524
+00:55:31,412 --> 00:55:34,915
+ale dostal som správu,ktorá ma nečakane zasiahla.
+
+525
+00:55:36,834 --> 00:55:38,252
+Akú správu?
+
+526
+00:55:39,920 --> 00:55:42,423
+Zomrel veľvyslanec Spock.
+
+527
+00:55:46,677 --> 00:55:48,679
+Spock, to ma mrzí.
+
+528
+00:55:51,766 --> 00:55:54,935
+Neviem si predstaviť, aký je to pocit.
+
+529
+00:56:01,442 --> 00:56:04,278
+Keď prežijete toľko životov ako on,
+
+530
+00:56:05,780 --> 00:56:08,32
+strach zo smrti je nelogický.
+
+531
+00:56:10,368 --> 00:56:12,119
+Strach zo smrti
+
+532
+00:56:13,579 --> 00:56:16,82
+nás drží pri živote.
+
+533
+00:56:20,44 --> 00:56:22,129
+Chcem žiť ako on.
+
+534
+00:56:25,383 --> 00:56:27,301
+Preto som sa rozhodol
+
+535
+00:56:28,52 --> 00:56:31,222
+presmerovať svoje úsiliea pokračovať v jeho práci
+
+536
+00:56:32,98 --> 00:56:33,432
+na Novom Vulkáne.
+
+537
+00:56:37,61 --> 00:56:39,63
+Odchádzate z Flotily?
+
+538
+00:56:43,442 --> 00:56:45,778
+Čo na to hovorí Jim?
+
+539
+00:56:46,654 --> 00:56:50,658
+Nenašiel som si čas... povedať mu to.
+
+540
+00:56:51,158 --> 00:56:53,494
+No, podľa mňa sa mu to nebude páčiť.
+
+541
+00:56:54,995 --> 00:56:57,581
+Dočerta, neviem, čo si bez vás počne.
+
+542
+00:56:58,416 --> 00:57:02,253
+Zato ja by som hneď oslavoval, ale...
+
+543
+00:57:10,511 --> 00:57:13,13
+Preboha, vy blúznite.
+
+544
+00:57:18,936 --> 00:57:20,980
+Ako ďaleko smeod súradníc toho volania?
+
+545
+00:57:21,814 --> 00:57:23,524
+Ešte ďaleko, pane.
+
+546
+00:57:23,941 --> 00:57:24,942
+Kapitán?
+
+547
+00:57:25,860 --> 00:57:28,446
+Kedy ste ju začali podozrievať?
+
+548
+00:57:30,114 --> 00:57:31,699
+Nie dosť skoro.
+
+549
+00:57:32,74 --> 00:57:33,576
+Ako ste to vedeli?
+
+550
+00:57:35,870 --> 00:57:39,874
+Myslím, že mám nosna nebezpečenstvo.
+
+551
+00:57:42,877 --> 00:57:43,961
+Bežte!
+
+552
+00:57:54,54 --> 00:57:57,224
+To je hudba? Odkiaľ to bliaka, preboha?
+
+553
+00:57:58,225 --> 00:57:59,226
+Tam.
+
+554
+00:58:00,978 --> 00:58:05,65
+Strčila som tú krabičku do elektrinya z tých malých úst ide spev.
+
+555
+00:58:05,399 --> 00:58:06,901
+Veľmi šikovné.
+
+556
+00:58:07,234 --> 00:58:10,905
+Trochu nemoderná hudba na môj vkus,hlučná a znervózňujúca, ale,
+
+557
+00:58:11,447 --> 00:58:12,865
+no, dobre hrajú.
+
+558
+00:58:13,240 --> 00:58:14,909
+Páči sa mi ten buchot a krik.
+
+559
+00:58:15,326 --> 00:58:16,494
+Ale, ozaj?
+
+560
+00:58:20,915 --> 00:58:22,166
+-Vypni to.-Ale, to je dobré.
+
+561
+00:58:22,583 --> 00:58:23,918
+Vypni to!
+
+562
+00:58:27,129 --> 00:58:28,422
+Niekto spustil jednu moju pascu.
+
+563
+00:58:52,863 --> 00:58:54,156
+Kapitán?
+
+564
+00:58:54,615 --> 00:58:56,534
+-Ty ich poznáš?-Áno, dievča.
+
+565
+00:58:56,700 --> 00:58:59,36
+-Ten maličký je Pavel Čechov.-Ahoj.
+
+566
+00:58:59,203 --> 00:59:02,623
+A ten fešák je James T. Kirk.Moji kamoši.
+
+567
+00:59:02,873 --> 00:59:04,208
+Rád vás vidím, pane.
+
+568
+00:59:05,960 --> 00:59:07,461
+Scotty, čo to robí?
+
+569
+00:59:07,628 --> 00:59:09,129
+Neubližuj im. Nie, nie!
+
+570
+00:59:09,296 --> 00:59:10,256
+Ovaľte ju!
+
+571
+00:59:13,92 --> 00:59:14,426
+Si voľný, James T.
+
+572
+00:59:14,593 --> 00:59:15,928
+Tak poďme.
+
+573
+00:59:16,887 --> 00:59:17,680
+Pán Scott.
+
+574
+00:59:23,602 --> 00:59:24,562
+Kto je tá vaša kamoška?
+
+575
+00:59:25,771 --> 00:59:28,315
+-Tá veru víta aj s červeným kobercom.-To je Jaylah.
+
+576
+00:59:28,649 --> 00:59:29,942
+Neviem, čo je červený koberec.
+
+577
+00:59:30,901 --> 00:59:32,403
+-Našli ste ešte niekoho?-Nie, pane.
+
+578
+00:59:33,320 --> 00:59:34,780
+Mrzí ma to, len vás.
+
+579
+00:59:34,863 --> 00:59:36,949
+Čo sa stalo? Prečo nás napadli?
+
+580
+00:59:37,324 --> 00:59:39,368
+Chceli ten artefakt,čo sme priniesli z Teenaxu.
+
+581
+00:59:39,493 --> 00:59:40,661
+-Dostali ho?-Nie.
+
+582
+00:59:40,995 --> 00:59:43,747
+-Máte ho vy?-Nie. Dal som ho do modulu.
+
+583
+00:59:44,290 --> 00:59:45,416
+-Schovali ste ho v module.-Áno.
+
+584
+00:59:46,917 --> 00:59:48,252
+A nie.
+
+585
+01:00:02,16 --> 01:00:05,185
+Toto je <i>U.S.S. Franklin,</i> pane.Verili by ste tomu?
+
+586
+01:00:05,519 --> 01:00:07,605
+Prvá pozemská loďschopná letieť na warp 4.
+
+587
+01:00:07,771 --> 01:00:10,858
+Okolo 2160 sa stratilav Gagarinovom radiačnom páse.
+
+588
+01:00:11,25 --> 01:00:14,194
+Pamätám si to z akadémie.Kapitán Balthazar Edison.
+
+589
+01:00:14,528 --> 01:00:17,865
+Jeden z prvých hrdinov Flotily.Ako to, že jeho loď skončila tu?
+
+590
+01:00:18,32 --> 01:00:22,536
+Je veľa teórií. Vzdala sa Romuláncom.Schmatla ju obria zelená vesmírna ruka.
+
+591
+01:00:22,703 --> 01:00:24,872
+Takto ďaleko sa mohla dostaťiba červou dierou.
+
+592
+01:00:25,39 --> 01:00:26,206
+Dá sa s ňou letieť?
+
+593
+01:00:26,373 --> 01:00:29,710
+Chýba niekoľko warp cievoka vstrekovače EPS sú spečené, ale
+
+594
+01:00:29,877 --> 01:00:33,297
+Jaylah odviedla úžasnú robotu,keď znova zapojila lodné systémy.
+
+595
+01:00:33,505 --> 01:00:35,90
+Ďakujem, Montgomery Scotty.
+
+596
+01:00:35,466 --> 01:00:36,467
+Prepáč.
+
+597
+01:00:38,177 --> 01:00:42,848
+Pán Čechov, zadajte súradnice.Skúste zo senzorov lokalizovať posádku.
+
+598
+01:00:42,931 --> 01:00:43,682
+Áno, kapitán.
+
+599
+01:00:43,849 --> 01:00:45,768
+-Má to kreslo rád.-Pán Scott.
+
+600
+01:00:45,976 --> 01:00:47,561
+-Ukážte mi to tu.-Áno, kantína.
+
+601
+01:00:47,895 --> 01:00:50,64
+-Jaylah, poprosím.-Áno.
+
+602
+01:01:12,169 --> 01:01:14,338
+Netušíme, čo sa stalo s posádkou?
+
+603
+01:01:14,505 --> 01:01:17,91
+Nie, pane.Teraz sú už aspoň sto rokov mŕtvi.
+
+604
+01:01:21,345 --> 01:01:22,513
+To je...?
+
+605
+01:01:23,180 --> 01:01:25,15
+To je PX70!
+
+606
+01:01:27,601 --> 01:01:28,769
+No toto.
+
+607
+01:01:29,520 --> 01:01:32,22
+Otec takú mal, keď som bol malý.
+
+608
+01:01:32,690 --> 01:01:36,694
+Mama hovorila, že ju vozil vzadu,bola z toho na nervy.
+
+609
+01:01:39,613 --> 01:01:40,614
+Pane.
+
+610
+01:01:44,827 --> 01:01:48,580
+Takže tá loď tu bola celý ten čas,a nikto si ju nevšimol?
+
+611
+01:01:59,967 --> 01:02:02,553
+Dala dokopy refkraktory obrazu.
+
+612
+01:02:04,221 --> 01:02:07,307
+Akúsi... holografickú kamufláž.
+
+613
+01:02:07,641 --> 01:02:08,726
+Áno, pane.
+
+614
+01:02:10,811 --> 01:02:11,812
+Kapitán!
+
+615
+01:02:12,62 --> 01:02:15,232
+Zachytil somslabý komunikačný prenos, pane.
+
+616
+01:02:15,441 --> 01:02:16,942
+Je to frekvencia Hviezdnej flotily.
+
+617
+01:02:19,903 --> 01:02:21,739
+Dokážete sa napojiť na signál?
+
+618
+01:02:21,905 --> 01:02:24,158
+Áno, ale ako sa k nim dostaneme?
+
+619
+01:02:24,950 --> 01:02:26,285
+Mám nápad, pane.
+
+620
+01:02:26,618 --> 01:02:28,287
+Ale potrebujem od vás povolenie.
+
+621
+01:02:28,746 --> 01:02:29,747
+Prečo?
+
+622
+01:02:29,997 --> 01:02:32,916
+Lebo ak to pokašlem,nechcem, aby to bolo iba na mňa.
+
+623
+01:02:36,128 --> 01:02:39,631
+McCoy a Spock volajú <i>Enterprise.</i>Ozvite sa, posádka.
+
+624
+01:02:39,965 --> 01:02:41,300
+Hocikto.
+
+625
+01:02:45,888 --> 01:02:47,389
+Ideme, Spock.
+
+626
+01:02:47,806 --> 01:02:49,641
+No tak, zvládnete to.
+
+627
+01:02:51,643 --> 01:02:55,647
+Doktor, keď ma tu necháte,zvýšite svoje šance na prežitie.
+
+628
+01:02:55,898 --> 01:02:58,650
+To je od vás veľmi galantné, ale nie.
+
+629
+01:02:58,817 --> 01:03:01,653
+Musíte lokalizovať členov posádky,čo prežili.
+
+630
+01:03:01,820 --> 01:03:03,822
+A ja že vám záleží na mne.
+
+631
+01:03:11,538 --> 01:03:13,165
+Samozrejme, že záleží, Leonard.
+
+632
+01:03:15,375 --> 01:03:18,670
+Myslel som si, že viete,ako vás rešpektujem.
+
+633
+01:03:20,881 --> 01:03:23,383
+Rozhovory,čo sme za tie roky viedli, vždy...
+
+634
+01:03:23,550 --> 01:03:25,52
+V poriadku, Spock.
+
+635
+01:03:25,719 --> 01:03:27,429
+Nemusíte to hovoriť.
+
+636
+01:03:31,58 --> 01:03:33,310
+No, aspoň nezomriem sám.
+
+637
+01:03:39,775 --> 01:03:41,902
+To je typické.
+
+638
+01:03:45,739 --> 01:03:47,783
+Tak do toho, sviniari!
+
+639
+01:03:55,332 --> 01:03:58,126
+-Rád vás vidím celého, doktor.-A som?
+
+640
+01:03:58,460 --> 01:04:00,629
+Mám pocit,že vnútornosti majú tancovačku.
+
+641
+01:04:00,879 --> 01:04:04,591
+Staré transportéry boli na náklad,ale pár úprav a ide to.
+
+642
+01:04:04,967 --> 01:04:08,53
+Ale radšej som vás preniesolpo jednom. Aby ste sa náhodou...
+
+643
+01:04:08,303 --> 01:04:09,638
+... nezaplietli.
+
+644
+01:04:10,722 --> 01:04:12,224
+To by bolo príšerné.
+
+645
+01:04:12,933 --> 01:04:15,686
+-Rád ťa znova vidím.-Ja som v poriadku. On je zranený.
+
+646
+01:04:15,853 --> 01:04:17,521
+Fungujem dostatočne, kapitán.
+
+647
+01:04:17,688 --> 01:04:19,523
+Tak to ani náhodou!
+
+648
+01:04:19,773 --> 01:04:22,776
+Zistili sme, že ukradnutý artefaktzrejme pochádza z tejto planéty.
+
+649
+01:04:23,569 --> 01:04:24,820
+Dofrasa, Spock.
+
+650
+01:04:25,529 --> 01:04:28,198
+-Je tu nejaké lekárske vybavenie?-Tadeto.
+
+651
+01:04:34,746 --> 01:04:36,331
+Ľahnite si.
+
+652
+01:04:37,40 --> 01:04:38,375
+Dobre.
+
+653
+01:04:40,711 --> 01:04:44,381
+Spock, ako sa z tohto dostaneme?Nemáme loď ani posádku.
+
+654
+01:04:44,631 --> 01:04:45,716
+Blbé vyhliadky.
+
+655
+01:04:45,883 --> 01:04:48,635
+Urobíme to, čo vždy. Budeme dúfať...
+
+656
+01:04:48,802 --> 01:04:50,137
+... v nemožné.
+
+657
+01:04:50,304 --> 01:04:52,306
+-Najskôr vás zašijeme.-Nie, kapitán.
+
+658
+01:04:52,681 --> 01:04:54,516
+Mali by ste sa usilovať nájsť posádku.
+
+659
+01:04:54,808 --> 01:04:56,310
+A práve preto vás potrebujem, Spock.
+
+660
+01:05:00,22 --> 01:05:01,857
+Toto náčinie je zo stredoveku.
+
+661
+01:05:03,150 --> 01:05:04,151
+Kostra.
+
+662
+01:05:06,403 --> 01:05:08,572
+Toto je určite protoplazer.
+
+663
+01:05:08,864 --> 01:05:10,616
+Mal by zastaviť vnútorné krvácanie.
+
+664
+01:05:10,866 --> 01:05:12,200
+Aspoň dúfam.
+
+665
+01:05:12,409 --> 01:05:14,995
+"Úbožiakovi iba jeden liek ostáva:nádej."
+
+666
+01:05:16,830 --> 01:05:19,583
+Na prahu smrti a už cituje Shakespeara.
+
+667
+01:05:22,85 --> 01:05:25,464
+<i>Kapitánov denník,hviezdny dátum 2262, 18...</i>
+
+668
+01:05:25,797 --> 01:05:27,49
+<i>Poslanie: bežný prieskum...</i>
+
+669
+01:05:28,383 --> 01:05:32,554
+PREHĽADALI SME VRAK.MUSEL TO SCHOVAŤ INAM.
+
+670
+01:05:36,99 --> 01:05:39,895
+MÁME JEHO POSÁDKU, KRALL.
+
+671
+01:05:40,62 --> 01:05:41,605
+<i>Ak je vesmír naozaj nekonečný...</i>
+
+672
+01:05:41,772 --> 01:05:46,777
+<i>To, čo mi bolo pred 2 rokmi také jasné,je teraz, nuž, vzdialené.</i>
+
+673
+01:05:49,529 --> 01:05:51,698
+Povedzte mi, kde to je!
+
+674
+01:05:52,32 --> 01:05:52,616
+Už aj!
+
+675
+01:05:57,371 --> 01:05:58,622
+Dosť!
+
+676
+01:06:00,332 --> 01:06:02,167
+Pusti ho a ja ti dám, čo chceš!
+
+677
+01:06:02,334 --> 01:06:04,86
+Nie! Syl, nie!
+
+678
+01:06:28,276 --> 01:06:29,611
+Poručíčka,
+
+679
+01:06:29,861 --> 01:06:33,365
+v jednote nie je vaša sila.
+
+680
+01:06:35,951 --> 01:06:37,619
+Ale vaša slabina.
+
+681
+01:07:13,113 --> 01:07:15,699
+Mali by sme počkať,kým si nebudeme istí.
+
+682
+01:07:15,949 --> 01:07:18,618
+Nie, musíme hneď preniesť posádku.
+
+683
+01:07:18,869 --> 01:07:21,788
+Čechov má súradnice,čo nás zavedú ku Krallovi, ideme!
+
+684
+01:07:21,955 --> 01:07:26,793
+Ako vieme, že bol na základni,keď mu volala? Alebo že má posádku?
+
+685
+01:07:26,960 --> 01:07:28,462
+Alebo či sú ešte nažive?
+
+686
+01:07:28,628 --> 01:07:33,133
+Pán Čechov, viete prekonfigurovaťparametre hľadania na tento vzorec?
+
+687
+01:07:33,967 --> 01:07:36,970
+Áno, komandér, ale čo je to za vzorec?
+
+688
+01:07:37,262 --> 01:07:38,597
+To je vokaya, pán Čechov.
+
+689
+01:07:38,889 --> 01:07:41,641
+Jedinečný vulkánsky minerálso slabým žiarením.
+
+690
+01:07:41,975 --> 01:07:44,478
+Musím odfiltrovať všetkoostatné energetické žiarenie.
+
+691
+01:07:44,728 --> 01:07:47,481
+Čo tam robí vulkánsky minerál?
+
+692
+01:07:47,647 --> 01:07:48,482
+O čo vám ide?
+
+693
+01:07:49,149 --> 01:07:53,612
+Poručíčka Uhura má na sebe amulet,môj dar na znak lásky a úcty.
+
+694
+01:07:54,154 --> 01:07:57,491
+-Dali ste priateľke rádioaktívny šperk?-To žiarenie je neškodné.
+
+695
+01:07:57,657 --> 01:08:00,160
+Ale je jedinečnéa dá sa ľahko vystopovať.
+
+696
+01:08:00,660 --> 01:08:03,330
+Dali ste priateľke sledovacie zariadenie.
+
+697
+01:08:06,458 --> 01:08:07,959
+To som nemal v úmysle.
+
+698
+01:08:09,377 --> 01:08:11,4
+Ešteže nemá v úcte mňa.
+
+699
+01:08:23,308 --> 01:08:26,728
+Zistil som stopové množstvo vokaye.
+
+700
+01:08:27,62 --> 01:08:30,232
+Zhodujú sa súradnice s tými,čo ste získali od Kalary?
+
+701
+01:08:30,816 --> 01:08:32,150
+Zhodujú, pane.
+
+702
+01:08:32,317 --> 01:08:35,737
+Takže poručíčku Uhurua teda aj zvyšok posádky držia
+
+703
+01:08:35,904 --> 01:08:37,280
+na Krallovej základni.
+
+704
+01:08:37,489 --> 01:08:38,907
+Viete ich preniesť?
+
+705
+01:08:39,282 --> 01:08:43,745
+Nie, pane. Geologická interferenciablokuje signál transportéra.
+
+706
+01:08:44,246 --> 01:08:47,249
+Tak ich zrejme musímeoslobodiť po starom.
+
+707
+01:08:47,499 --> 01:08:50,1
+Nemôžete tam ísť.
+
+708
+01:08:50,919 --> 01:08:53,255
+Každého, čo tam ide, zabije.
+
+709
+01:08:54,673 --> 01:08:56,925
+Ty si tam bola? Videla si to?
+
+710
+01:08:57,175 --> 01:08:58,927
+Dievča, čo si nič nepovedala?
+
+711
+01:08:59,94 --> 01:09:01,680
+Lebo viem, že budete chcieť,nech vás tam zavediem.
+
+712
+01:09:03,265 --> 01:09:06,476
+Ak sú vaši priatelia tam,zomrú, ako moja rodina.
+
+713
+01:09:07,102 --> 01:09:09,354
+A ja sa nevrátim na to miesto smrti.
+
+714
+01:09:09,604 --> 01:09:12,357
+Ale keď si unikla,môžeš nám ukázať cestu tam a von.
+
+715
+01:09:12,524 --> 01:09:15,527
+Nie! Takto sme sa nedohodli,Montgomery Scotty.
+
+716
+01:09:17,821 --> 01:09:20,198
+Ak tam chcete ísť, ste v tom sami.
+
+717
+01:09:21,32 --> 01:09:22,117
+Počkaj.
+
+718
+01:09:22,450 --> 01:09:25,537
+-Nech ide.-Aj ona o niekoho prišla.
+
+719
+01:09:34,379 --> 01:09:38,633
+Máme tam kamošov, dievča.Nemôžeme ich tam nechať.
+
+720
+01:09:39,50 --> 01:09:41,887
+Fakt by sa nám zišla tvoja pomoc.
+
+721
+01:09:42,220 --> 01:09:44,222
+Len buď statočná.
+
+722
+01:09:46,224 --> 01:09:48,226
+Keď sme tam boli,
+
+723
+01:09:48,727 --> 01:09:51,62
+Krall prišiel a niekoho zobral.
+
+724
+01:09:51,646 --> 01:09:53,315
+Počuli sme výkriky.
+
+725
+01:09:53,648 --> 01:09:55,567
+Stále ich počujem.
+
+726
+01:09:56,902 --> 01:10:01,239
+A viac sme ho nevideli.Nevedeli sme, kto bude ďalší.
+
+727
+01:10:06,828 --> 01:10:08,830
+Otec naplánoval útek.
+
+728
+01:10:08,914 --> 01:10:12,751
+Ale zbadal nás jeden, volajú ho Manas.
+
+729
+01:10:15,754 --> 01:10:19,257
+Otec sa s ním bil, aby som mohla ujsť.
+
+730
+01:10:20,175 --> 01:10:21,635
+On bol statočný,
+
+731
+01:10:21,843 --> 01:10:23,511
+a Manas ho zabil.
+
+732
+01:10:25,847 --> 01:10:27,849
+Žiadate nemožné.
+
+733
+01:10:30,852 --> 01:10:32,604
+Možno nie.
+
+734
+01:10:33,438 --> 01:10:37,25
+Moja starká hovorievala:"Slamku v snope nezlomíš."
+
+735
+01:10:38,526 --> 01:10:40,862
+Dievča, teraz si súčasťouniečoho väčšieho.
+
+736
+01:10:41,196 --> 01:10:44,699
+Nevzdávaj to.Lebo mi to s tebou nevzdáme.
+
+737
+01:10:44,908 --> 01:10:47,244
+Toto znamená byť súčasťou posádky.
+
+738
+01:10:49,37 --> 01:10:51,164
+Aj ty tomu veríš, James T.?
+
+739
+01:10:54,0 --> 01:10:56,127
+Ja len viem,že s tebou máme väčšiu šancu.
+
+740
+01:10:58,922 --> 01:11:02,926
+Kopacie stroje odkryli tunel,čo vedie do krátera. Tadiaľ som ušla.
+
+741
+01:11:03,93 --> 01:11:04,761
+Takže tade vojdeme dnu.
+
+742
+01:11:04,928 --> 01:11:07,305
+Výsadok sa prenesie na koniec tunela,prejde do Krallovej základne,
+
+743
+01:11:07,389 --> 01:11:10,600
+dostane sa dnu a oslobodí posádku.
+
+744
+01:11:10,767 --> 01:11:14,771
+Kapitán, nevieme nikohov kráteri zamerať a preniesť von.
+
+745
+01:11:14,938 --> 01:11:18,608
+Prerobím vysielače na zosilňovačetransportu, aby dostali signál z krátera.
+
+746
+01:11:18,775 --> 01:11:21,111
+Koľko ľudí môže Franklinpreniesť naraz?
+
+747
+01:11:21,278 --> 01:11:24,864
+Po menšej úprave 20,ale neviem, koľko to vydrží.
+
+748
+01:11:25,31 --> 01:11:27,367
+Kostra, Čechov, Jaylah,ste so mnou vo výsadku.
+
+749
+01:11:27,534 --> 01:11:31,454
+Pán Scott, upravte transportér a urobte,čo treba, aby ste spojazdnili loď.
+
+750
+01:11:31,621 --> 01:11:36,42
+Pán Čechov je technicky zdatný aužitočnejší na lodi s pánom Scottom.
+
+751
+01:11:36,209 --> 01:11:38,378
+Takže logickyby som ho mal zastúpiť ja.
+
+752
+01:11:38,628 --> 01:11:41,47
+Čo je na tom logické?Ledva ste sa postavili na nohy.
+
+753
+01:11:41,840 --> 01:11:44,175
+Na tej základni je poručíčka Uhura, Jim.
+
+754
+01:11:47,304 --> 01:11:48,888
+Dám naňho pozor.
+
+755
+01:11:49,639 --> 01:11:50,765
+Rozumiem.
+
+756
+01:11:51,99 --> 01:11:54,436
+Ale všade má vojakov. Všimnú si nás.
+
+757
+01:11:54,644 --> 01:11:56,62
+Potrebujeme odviesť pozornosť.
+
+758
+01:12:02,694 --> 01:12:03,737
+Asi mi niečo napadlo.
+
+759
+01:12:29,387 --> 01:12:32,557
+Toto je Abronath.
+
+760
+01:12:33,99 --> 01:12:37,20
+Starovekí ho používali ako zbraň.
+
+761
+01:12:37,354 --> 01:12:40,940
+Ale keď už neovládalijeho smrtiacu silu,
+
+762
+01:12:41,274 --> 01:12:45,445
+rozdelili hoa polovice vystrelili do vesmíru,
+
+763
+01:12:45,779 --> 01:12:48,448
+v nádeji, že sa navždy stratia.
+
+764
+01:12:52,118 --> 01:12:54,454
+Ale som vám vďačný.
+
+765
+01:12:54,871 --> 01:12:59,0
+Niekoľko životov som ho hľadal,
+
+766
+01:12:59,334 --> 01:13:01,294
+až ste ho vy
+
+767
+01:13:01,628 --> 01:13:03,838
+našli pre mňa.
+
+768
+01:13:07,217 --> 01:13:09,803
+Poézia osudu.
+
+769
+01:13:12,680 --> 01:13:15,517
+Narodil som sa do sveta
+
+770
+01:13:15,850 --> 01:13:18,186
+iného ako ten váš, poručíčka.
+
+771
+01:13:18,311 --> 01:13:20,605
+Poznali sme bolesť. Hrôzu.
+
+772
+01:13:21,106 --> 01:13:23,858
+Boj nás posilnil.
+
+773
+01:13:24,67 --> 01:13:26,403
+Nie mier. Ani jednota.
+
+774
+01:13:27,112 --> 01:13:31,282
+Federácia vás kŕmi poverami.
+
+775
+01:13:35,787 --> 01:13:36,830
+To sú silné slová.
+
+776
+01:13:37,914 --> 01:13:41,0
+Možno im aj veríte,ale je vo vás niečo viac.
+
+777
+01:13:41,292 --> 01:13:42,1
+Pod povrchom.
+
+778
+01:13:46,923 --> 01:13:48,91
+Počkajte.
+
+779
+01:13:48,591 --> 01:13:50,260
+Čo to s ňou robíte?
+
+780
+01:13:51,136 --> 01:13:53,555
+Veď už máte, čo ste chceli! Pustite ju!
+
+781
+01:13:54,389 --> 01:13:55,723
+Syl!
+
+782
+01:14:04,732 --> 01:14:06,192
+Nie, prosím!
+
+783
+01:14:08,27 --> 01:14:09,779
+Pustite ju!
+
+784
+01:14:31,384 --> 01:14:33,887
+Manas, je čas.
+
+785
+01:14:36,139 --> 01:14:39,392
+Federácia už storočia posúva hranice.
+
+786
+01:14:39,726 --> 01:14:41,561
+Ale tomu je koniec.
+
+787
+01:14:41,811 --> 01:14:44,397
+Tu sa to začne, poručíčka.
+
+788
+01:14:47,442 --> 01:14:51,70
+Tu posunieme ich hranicu naspäť.
+
+789
+01:15:03,791 --> 01:15:04,959
+Tadeto.
+
+790
+01:15:22,143 --> 01:15:23,478
+Kde je?
+
+791
+01:15:44,123 --> 01:15:46,459
+Musím uznať, parádneodvedenie pozornosti.
+
+792
+01:15:47,252 --> 01:15:48,586
+Vaši priatelia sú tam.
+
+793
+01:15:51,923 --> 01:15:52,882
+Poďme.
+
+794
+01:15:54,926 --> 01:15:56,636
+NECHAJ, JA TO S NIMI VYBAVÍM.
+
+795
+01:15:57,220 --> 01:15:58,846
+PRIVIEDOL SI NÁS AŽ SEM.
+
+796
+01:15:59,138 --> 01:16:01,307
+DOKONČI POSLANIE, KRALL.
+
+797
+01:16:08,189 --> 01:16:09,357
+Choď!
+
+798
+01:16:42,348 --> 01:16:43,349
+Komandér.
+
+799
+01:16:43,683 --> 01:16:45,268
+Uhura, zobrali ju.
+
+800
+01:16:47,562 --> 01:16:49,564
+Odveďte zvyšok posádky do bezpečia.
+
+801
+01:16:50,565 --> 01:16:52,150
+No tak, poďme! Pohyb!
+
+802
+01:16:54,569 --> 01:16:55,903
+Držte sa v kruhu.
+
+803
+01:16:59,574 --> 01:17:00,742
+Mám ich!
+
+804
+01:17:00,908 --> 01:17:04,329
+Pán Čechov, posilnite signál.Prenesieme ich 20 naraz.
+
+805
+01:17:04,579 --> 01:17:06,539
+Hádam sa to nepohnojí. Energiu!
+
+806
+01:17:42,200 --> 01:17:43,159
+Spock.
+
+807
+01:17:44,202 --> 01:17:46,37
+Čo tu robíš?
+
+808
+01:17:46,913 --> 01:17:49,540
+Očividne som ťa prišiel zachrániť.
+
+809
+01:17:50,708 --> 01:17:51,668
+Poďme.
+
+810
+01:17:59,717 --> 01:18:01,52
+Rád ťa vidím, pidimuž.
+
+811
+01:18:28,287 --> 01:18:29,914
+ZOMRIEŠ TU
+
+812
+01:18:30,248 --> 01:18:32,208
+PRESNE AKO TVOJ OTEC.
+
+813
+01:19:22,967 --> 01:19:25,11
+10 sekúnd do nabitia transportéru.
+
+814
+01:19:25,136 --> 01:19:26,804
+-Čakajte na signál.<i>-Doktor!</i>
+
+815
+01:19:27,138 --> 01:19:29,307
+Dofrasa, človeče, nejdeme bez nich!
+
+816
+01:19:32,59 --> 01:19:33,561
+No tak. Pohyb!
+
+817
+01:19:33,978 --> 01:19:34,979
+Bežte!
+
+818
+01:20:00,797 --> 01:20:03,216
+<i>Hneď vezmeme aj vás, kapitán.Zapnite vysielač.</i>
+
+819
+01:20:03,549 --> 01:20:05,51
+Máte všetkých?
+
+820
+01:20:05,218 --> 01:20:06,385
+Okrem vás a Jaylah.
+
+821
+01:20:07,53 --> 01:20:07,970
+<i>Zapnite vysielač a prenesieme vás.</i>
+
+822
+01:20:17,355 --> 01:20:20,233
+NECHAJÚ ŤA TU.
+
+823
+01:20:23,569 --> 01:20:25,29
+Kapitán, vysielač!
+
+824
+01:20:55,852 --> 01:20:57,436
+-Tam je!-Energiu.
+
+825
+01:21:01,65 --> 01:21:01,732
+Jaylah, teraz!
+
+826
+01:21:16,205 --> 01:21:17,206
+Dobre,
+
+827
+01:21:17,540 --> 01:21:19,458
+toto už viac nerobme.
+
+828
+01:21:19,792 --> 01:21:21,377
+Súhlasím, James T.
+
+829
+01:21:24,547 --> 01:21:25,381
+V poriadku?
+
+830
+01:21:25,923 --> 01:21:27,967
+Kapitán! Tá vec, čo má...
+
+831
+01:21:28,217 --> 01:21:31,804
+Yorktown. Chce zničiť Yorktown.
+
+832
+01:21:33,222 --> 01:21:35,141
+Zoberte môj dom
+
+833
+01:21:36,309 --> 01:21:38,311
+a dostaňte ho do vzduchu.
+
+834
+01:21:40,813 --> 01:21:42,815
+Scotty, viete toto naštartovať?
+
+835
+01:21:42,982 --> 01:21:44,984
+Naštartovať hej. Ale let je niečo iné.
+
+836
+01:21:45,151 --> 01:21:49,71
+Tieto staré lode stavali vo vesmíre.Nemali vzlietať z atmosféry.
+
+837
+01:21:49,238 --> 01:21:50,323
+Skúste to.
+
+838
+01:21:50,573 --> 01:21:53,576
+-Nevolajú sa "vesmírne lode" len tak.-To mi vravíte teraz?
+
+839
+01:21:53,826 --> 01:21:57,288
+Nechcel som vás sklamať,keby ste sa nevrátili.
+
+840
+01:21:57,455 --> 01:21:59,665
+-Aké pozorné, pán Scott.-Kapitán.
+
+841
+01:22:06,505 --> 01:22:07,840
+Odlieta.
+
+842
+01:22:14,513 --> 01:22:18,851
+Útok na Yorktown je asi len začiatok.So svojou bio zbraňou
+
+843
+01:22:19,352 --> 01:22:24,357
+zničí všetko živé a s technológiouzákladne napadne planéty Federácie.
+
+844
+01:22:26,609 --> 01:22:28,402
+Takže musíme toto dostať do vzduchu.
+
+845
+01:22:28,486 --> 01:22:30,196
+Len tak nenaskočí, pane!
+
+846
+01:22:35,284 --> 01:22:37,954
+Dobre! Všetky systémy zapojené.
+
+847
+01:22:38,162 --> 01:22:41,582
+Dilítiové komory na 70 % a stúpajú.
+
+848
+01:22:41,832 --> 01:22:44,919
+Primárne podporné motory pripravené.
+
+849
+01:22:46,671 --> 01:22:47,254
+Pán Sulu.
+
+850
+01:22:48,214 --> 01:22:49,882
+Viete, no,
+
+851
+01:22:50,257 --> 01:22:51,467
+viete s tým letieť?
+
+852
+01:22:53,344 --> 01:22:54,679
+To vážne, pane?
+
+853
+01:22:55,96 --> 01:22:56,347
+Fantázia.
+
+854
+01:22:56,931 --> 01:22:58,808
+<i>Scotty, ako to vyzerá?</i>
+
+855
+01:22:59,183 --> 01:23:01,852
+-Pripravenejšia už nebude, pane.<i>-To rád počujem.</i>
+
+856
+01:23:02,186 --> 01:23:03,938
+Kostra, ako je na tom posádka?
+
+857
+01:23:04,105 --> 01:23:07,274
+<i>Zišla by sa mi funkčná ošetrovňa,ale inak sme pripravení.</i>
+
+858
+01:23:07,608 --> 01:23:08,609
+Pán Sulu,
+
+859
+01:23:08,776 --> 01:23:13,531
+musíme dosiahnuť hraničnú rýchlosť,aby nás stabilizátory zdvihli.
+
+860
+01:23:13,698 --> 01:23:16,158
+Ste si istý, že je tento pád dostatočný?
+
+861
+01:23:17,952 --> 01:23:19,286
+Uvidíme.
+
+862
+01:23:28,45 --> 01:23:29,797
+Začnite, pán Sulu.
+
+863
+01:23:30,131 --> 01:23:31,465
+Rozkaz, kapitán.
+
+864
+01:23:31,799 --> 01:23:36,470
+Pán Čechov, predné stabilizátorynaplno. Impulz na štvrtinu.
+
+865
+01:23:58,325 --> 01:24:00,327
+Impulz na polovicu.
+
+866
+01:24:00,661 --> 01:24:01,662
+Áno.
+
+867
+01:24:03,122 --> 01:24:04,957
+Pripútajme sa. No tak!
+
+868
+01:24:14,383 --> 01:24:16,886
+Opatrne, pán Sulu.Nezlomte ju vo dvoje.
+
+869
+01:24:52,129 --> 01:24:53,839
+Do toho, pán Sulu.
+
+870
+01:24:56,217 --> 01:24:57,968
+VZDIALENOSŤ DO NÁRAZU
+
+871
+01:24:59,178 --> 01:25:00,679
+Teraz, pán Čechov!
+
+872
+01:26:13,377 --> 01:26:15,963
+Pozor, blíži sa loď.
+
+873
+01:26:16,547 --> 01:26:18,883
+Bez odpovede na všetkých frekvenciách.Identifikujte sa.
+
+874
+01:26:19,216 --> 01:26:20,217
+Na obraz.
+
+875
+01:26:33,856 --> 01:26:35,191
+Červený poplach! Červený poplach!
+
+876
+01:26:46,35 --> 01:26:48,954
+Pozrime sa, ako ďaleko sa dostali.
+
+877
+01:26:51,749 --> 01:26:54,919
+<i>Prosím, choďte okamžitedo určených bezpečnostných zón.</i>
+
+878
+01:27:02,134 --> 01:27:05,429
+Zachytávam núdzový signálna všetkých frekvenciách z Yorktownu.
+
+879
+01:27:07,473 --> 01:27:08,849
+Krall zaútočil.
+
+880
+01:27:09,475 --> 01:27:11,644
+Pán Scott, aké máme zbrane?
+
+881
+01:27:11,936 --> 01:27:14,605
+Pulzné fázové deláa priestorové torpéda.
+
+882
+01:27:15,231 --> 01:27:16,565
+Výborne. Nabiť a pripraviť.
+
+883
+01:27:16,732 --> 01:27:19,26
+Je to jedno. Včely neporazíte.
+
+884
+01:27:19,318 --> 01:27:23,989
+Môžeme ich odlákať. Ako dámeYorktownu čas dostať ľudí do bezpečia?
+
+885
+01:27:24,156 --> 01:27:28,35
+V porovnaní s nimi sme ako fúrik.Veď sa rozpadáme.
+
+886
+01:27:28,160 --> 01:27:31,914
+Kapitán, včely riadia svoj letpodľa rozhodnutí určitých jedincov.
+
+887
+01:27:32,248 --> 01:27:36,669
+Krallov roj je príliš komplexný, musí maťjednotnú kyberpatickú koordináciu.
+
+888
+01:27:37,419 --> 01:27:39,755
+-Predpokladám, že...-Spock, k veci.
+
+889
+01:27:40,5 --> 01:27:43,50
+Vraví, že ak zmätieme roj,nakopeme mu zadok!
+
+890
+01:27:44,176 --> 01:27:45,177
+Presne.
+
+891
+01:27:46,512 --> 01:27:48,347
+Scotty, prenesiete ma na loď roja?
+
+892
+01:27:48,514 --> 01:27:49,807
+Zbláznili ste sa?!
+
+893
+01:27:49,974 --> 01:27:51,58
+-Áno či nie?<i>-Nie!</i>
+
+894
+01:27:51,433 --> 01:27:52,434
+Áno!
+
+895
+01:27:52,768 --> 01:27:53,769
+Možno.
+
+896
+01:27:54,103 --> 01:27:58,941
+Moje krátke oboznámenie s tou loďouma lepšie kvalifikuje na tento výsadok.
+
+897
+01:27:59,275 --> 01:28:00,859
+Spock, si zranený.
+
+898
+01:28:01,402 --> 01:28:02,361
+Má pravdu.
+
+899
+01:28:04,196 --> 01:28:06,198
+Chápem vaše znepokojenie.
+
+900
+01:28:07,533 --> 01:28:12,538
+Asi by som mal ísť s niekým,kto pozná loď aj moje zranenie.
+
+901
+01:28:14,623 --> 01:28:16,208
+Bude nadšený.
+
+902
+01:28:17,543 --> 01:28:18,961
+Čo to mám urobiť?!
+
+903
+01:28:20,421 --> 01:28:22,673
+-Ideme, doktor.-Tak moment.
+
+904
+01:28:23,7 --> 01:28:26,10
+Vy zelenokrvný nevďačník.To bol váš nápad!
+
+905
+01:28:26,302 --> 01:28:27,553
+Je to dobrý nápad, Kostra.
+
+906
+01:28:27,886 --> 01:28:31,890
+Keď vám zase trubka prepichne brucho,volajte inštalatéra.
+
+907
+01:28:32,266 --> 01:28:33,475
+Hlavne ich zničte.
+
+908
+01:28:33,809 --> 01:28:35,728
+Ak budete v kaši,prenesiem vás naspäť.
+
+909
+01:28:35,894 --> 01:28:36,729
+Energiu.
+
+910
+01:28:37,563 --> 01:28:38,230
+Zvládnete to!
+
+911
+01:28:39,356 --> 01:28:40,983
+Dofrasa, Jim, som doktor, nie...
+
+912
+01:28:48,782 --> 01:28:52,786
+Viete, že keď som toto naposledy riadil,tak sme sa zrútili.
+
+913
+01:28:53,120 --> 01:28:54,204
+Takže mi nenadávajte, keď...
+
+914
+01:28:59,793 --> 01:29:00,878
+... do niečoho narazíme.
+
+915
+01:29:01,378 --> 01:29:02,588
+Spock <i>Franklinovi.</i>
+
+916
+01:29:02,796 --> 01:29:03,964
+Spock, počujeme.
+
+917
+01:29:04,89 --> 01:29:08,469
+Lode sú naozaj kyberpaticky prepojenéa koordinujú sa.
+
+918
+01:29:08,719 --> 01:29:10,54
+Prepájam vám to.
+
+919
+01:29:10,971 --> 01:29:12,806
+To bol ten signál.
+
+920
+01:29:13,807 --> 01:29:16,226
+Nerušili nás,rozprávali sa medzi sebou.
+
+921
+01:29:16,393 --> 01:29:18,479
+Vieme ich prinútiť, aby stíchli?
+
+922
+01:29:18,645 --> 01:29:22,66
+A čo elektromagnetické zameranie?Použime transportéry, narušíme im sieť.
+
+923
+01:29:22,232 --> 01:29:23,901
+Zaostrenie by bolo príliš špecifické.
+
+924
+01:29:24,68 --> 01:29:28,572
+Vyšlime rušivý signál do roja,mal by ovplyvniť ich koordináciu.
+
+925
+01:29:28,906 --> 01:29:31,492
+Na frekvencii, ktorú nečakajú.
+
+926
+01:29:31,658 --> 01:29:34,286
+Vyvoláme reťazovú reakciu,ktorá vyhladí celý roj.
+
+927
+01:29:34,828 --> 01:29:38,123
+Taká uzavretá sieť je zrejmenáchylná na veľmi vysoké frekvencie.
+
+928
+01:29:38,999 --> 01:29:40,334
+VHF.
+
+929
+01:29:40,667 --> 01:29:44,4
+Rádio. Vysielajme niečo z lode,aby sme im zahltili spojenie.
+
+930
+01:29:44,254 --> 01:29:45,839
+Niečo hlučné a znervózňujúce.
+
+931
+01:29:46,6 --> 01:29:47,591
+Hlučné a znervózňujúce?
+
+932
+01:29:48,634 --> 01:29:49,927
+Niečo také mám!
+
+933
+01:29:50,469 --> 01:29:52,137
+Nepokaz mi hudbu.
+
+934
+01:29:52,304 --> 01:29:53,680
+Pokaziť? Vylepšujem ju.
+
+935
+01:30:07,277 --> 01:30:09,780
+Lode roja o 60 sekúnd prerazia!
+
+936
+01:30:09,947 --> 01:30:12,616
+Nastavím výstup VHFna multifázovú škálu.
+
+937
+01:30:13,283 --> 01:30:14,451
+Ja to spravím.
+
+938
+01:30:14,618 --> 01:30:15,661
+Ona to spraví.
+
+939
+01:30:18,163 --> 01:30:19,665
+Sprav to.
+
+940
+01:30:21,542 --> 01:30:23,377
+Aha, vidíš? Ľahké.
+
+941
+01:30:23,544 --> 01:30:25,879
+Dobre. Kapitán, môžeme vysielať.
+
+942
+01:30:26,213 --> 01:30:28,799
+Signál sa nedostane ďaleko.Musíme ísť bližšie.
+
+943
+01:30:29,7 --> 01:30:30,843
+-Ako blízko?-Veľmi.
+
+944
+01:30:31,135 --> 01:30:33,137
+Kolízny kurz, pán Sulu.
+
+945
+01:30:33,470 --> 01:30:35,889
+-Dostaňte nás do ich stredu.-Áno, pane.
+
+946
+01:30:48,318 --> 01:30:50,70
+Starý priateľ.
+
+947
+01:31:00,831 --> 01:31:04,418
+Roj sa otáča!Vytvára útočnú formáciu, pane.
+
+948
+01:31:04,585 --> 01:31:07,921
+Máme ich pozornosť.Udržujte kurz, pán Sulu. Všetci sa držte.
+
+949
+01:31:08,88 --> 01:31:11,258
+Spock, pripravte sa opustiť formáciu.Scotty, všetko pripravené?
+
+950
+01:31:11,425 --> 01:31:14,678
+-Áno, pane!-Pripravení vysielať na 57,7 MHz.
+
+951
+01:31:14,845 --> 01:31:17,681
+-Vybrala si si, dievča?-Buchot a krik.
+
+952
+01:31:40,913 --> 01:31:42,498
+Tak to rozbaľme.
+
+953
+01:31:50,881 --> 01:31:52,382
+Dobrý výber.
+
+954
+01:32:05,938 --> 01:32:08,941
+Rýchlejšie. Hrozí,že nás strhnú so sebou.
+
+955
+01:32:09,233 --> 01:32:10,359
+Dočerta, nemudrujte.
+
+956
+01:32:11,151 --> 01:32:13,487
+-Nabok, doktor!-Vidím, vidím!
+
+957
+01:32:33,90 --> 01:32:34,841
+To je klasická hudba?
+
+958
+01:32:36,93 --> 01:32:37,970
+Áno, doktor, zrejme je.
+
+959
+01:32:38,679 --> 01:32:41,807
+Poručíčka Uhura,zadajte Yorktownu vysielaciu frekvenciu.
+
+960
+01:32:44,768 --> 01:32:46,937
+Pane, už máme rušiacu frekvenciu.
+
+961
+01:32:47,104 --> 01:32:48,272
+Vysielajte.
+
+962
+01:33:09,126 --> 01:33:10,711
+-Ste obaja v poriadku, Spock?<i>-Sme,</i>
+
+963
+01:33:10,877 --> 01:33:13,964
+ale k Yorktownu smerujú ešte 3 lode.
+
+964
+01:33:14,131 --> 01:33:18,927
+To bude Krall. Držte sa ho.Urobte všetko, aby nepoužil tú zbraň.
+
+965
+01:33:38,280 --> 01:33:40,115
+Môj dom sa rozpadá!
+
+966
+01:33:40,449 --> 01:33:45,37
+Nefunguje polarizácia plášťa!Prevediem energiu z dilítiových komôr.
+
+967
+01:33:45,203 --> 01:33:48,707
+Za mnou! Aj ty, Jaylah. Poďme!
+
+968
+01:34:13,482 --> 01:34:14,775
+Nestraťte ich, doktor!
+
+969
+01:34:15,150 --> 01:34:17,319
+Nech sa páči, vymeňte sa so mnou.
+
+970
+01:34:38,590 --> 01:34:42,260
+Kapitán, nemôžeme zneškodniťvšetky 3 lode naraz.
+
+971
+01:34:46,306 --> 01:34:48,392
+Chcem mapu Yorktownu!
+
+972
+01:34:49,351 --> 01:34:51,269
+Tam! Yorktownské ústredie!
+
+973
+01:34:51,520 --> 01:34:54,731
+Pán Čechov,biosken Hlavného námestia.
+
+974
+01:34:55,315 --> 01:34:56,650
+Odvádzajú civilistov.
+
+975
+01:34:57,192 --> 01:35:01,196
+Kostra, blížite sa k námestiu.Naveďte Kralla k nemu.
+
+976
+01:35:01,446 --> 01:35:02,447
+-Načo?-Spravte to!
+
+977
+01:35:18,380 --> 01:35:19,965
+Sulu, dostaňte nás tam.
+
+978
+01:35:20,132 --> 01:35:21,216
+Pevne sa držte!
+
+979
+01:36:15,979 --> 01:36:18,398
+<i>-Dobrá práca, Kostra.</i>-Vďaka, Jim.
+
+980
+01:36:18,732 --> 01:36:20,609
+Už len prísť na to, ako pristáť.
+
+981
+01:36:27,574 --> 01:36:30,35
+Kapitán,trup poškodený na troch miestach.
+
+982
+01:36:30,702 --> 01:36:33,79
+Paluba 3, nákladná paluba a strojovňa.
+
+983
+01:36:33,997 --> 01:36:37,83
+Sulu, Čechov,skontrolujte nákladnú palubu a palubu 3.
+
+984
+01:36:37,250 --> 01:36:40,86
+Musíme mať istotu,že je zbraň zneškodnená a Krall mŕtvy!
+
+985
+01:36:58,21 --> 01:36:58,855
+Kapitán!
+
+986
+01:37:05,821 --> 01:37:06,738
+To Krall.
+
+987
+01:37:07,113 --> 01:37:08,615
+Videli sme, ako to robí.
+
+988
+01:37:08,782 --> 01:37:11,409
+Nejaký prenos energie. Fyzicky ho mení.
+
+989
+01:37:12,202 --> 01:37:16,122
+Takže je stále na palube.Videli by sme ho odísť.
+
+990
+01:37:17,457 --> 01:37:20,460
+Sulu, kontaktujte bezpečnosť Yorktownua uzavrite loď.
+
+991
+01:37:20,794 --> 01:37:22,128
+Ideme.
+
+992
+01:37:34,724 --> 01:37:36,393
+<i>Posúvame hranice.</i>
+
+993
+01:37:45,402 --> 01:37:46,820
+<i>Veď už bolo načase.</i>
+
+994
+01:37:47,779 --> 01:37:49,30
+<i>-Pripravení?-Hej.</i>
+
+995
+01:37:49,197 --> 01:37:51,783
+<i>Dobre teda, ide sa. Najvyšší čas.</i>
+
+996
+01:37:51,950 --> 01:37:53,618
+<i>Posúvame hranice.</i>
+
+997
+01:37:54,619 --> 01:37:55,871
+Kapitán!
+
+998
+01:37:56,872 --> 01:37:58,623
+<i>-Najvyšší čas.-Posúvame hranice.</i>
+
+999
+01:38:03,628 --> 01:38:05,380
+<i>Posúvame hranice.</i>
+
+1000
+01:38:06,423 --> 01:38:08,466
+<i>-Veď už bolo načase.-Posúvame hranice.</i>
+
+1001
+01:38:09,885 --> 01:38:11,219
+<i>Posúvame hranice.</i>
+
+1002
+01:38:13,763 --> 01:38:15,98
+<i>... hranice.</i>
+
+1003
+01:38:15,515 --> 01:38:17,100
+<i>... hranice.</i>
+
+1004
+01:38:23,23 --> 01:38:24,357
+To je on.
+
+1005
+01:38:25,358 --> 01:38:28,111
+Scotty,dostaňte sa do databázy <i>Franklina.</i>
+
+1006
+01:38:28,445 --> 01:38:30,697
+<i>Zistite všetko o Balthazarovi Edisonovi.</i>
+
+1007
+01:38:30,864 --> 01:38:34,117
+Kapitánovi <i>Franklina?</i>Ten je dávno mŕtvy.
+
+1008
+01:38:34,284 --> 01:38:36,870
+Neviem ako, ale Edison je Krall.
+
+1009
+01:38:47,589 --> 01:38:48,757
+Čo ste zistili?
+
+1010
+01:38:48,924 --> 01:38:52,10
+Jeho záznamy siahajúešte pred vznik Federácie.
+
+1011
+01:38:52,260 --> 01:38:56,556
+Major MACO, armády Spojenej Zeme.Veľa akcií mimo Zeme.
+
+1012
+01:38:56,806 --> 01:38:59,59
+-Bol to vojak.-A dosť dobrý.
+
+1013
+01:38:59,142 --> 01:39:01,603
+Skončil vojenskú kariéru,keď rozpustili MACO.
+
+1014
+01:39:01,895 --> 01:39:03,980
+-A prečo?-Federácia, pane. Hviezdna flotila.
+
+1015
+01:39:04,147 --> 01:39:07,67
+Nie sme vojenská organizácia.Spravili z neho kapitána na Franklinovi.
+
+1016
+01:39:07,400 --> 01:39:08,610
+Jeho denník.
+
+1017
+01:39:10,695 --> 01:39:13,198
+<i>-Kapitánov denník...</i>-Posledný záznam.
+
+1018
+01:39:13,531 --> 01:39:17,535
+<i>Kapitánov denník...Neviem, aký je hviezdny dátum.</i>
+
+1019
+01:39:18,954 --> 01:39:21,81
+<i>Na núdzové volanie nikto neodpovedá.</i>
+
+1020
+01:39:21,706 --> 01:39:23,41
+<i>Z posádky</i>
+
+1021
+01:39:24,709 --> 01:39:26,211
+<i>sme už len traja.</i>
+
+1022
+01:39:26,544 --> 01:39:28,546
+<i>To nedovolím!</i>
+
+1023
+01:39:30,757 --> 01:39:34,260
+<i>Pôvodná rasa opustilaplanétu už dávno.</i>
+
+1024
+01:39:34,427 --> 01:39:37,764
+<i>Nechali tu pokročilé ťažobné stroje</i>
+
+1025
+01:39:37,931 --> 01:39:40,100
+<i>a primitívnych robotníkov.</i>
+
+1026
+01:39:40,433 --> 01:39:43,353
+<i>Majú nejakú technológiu</i>
+
+1027
+01:39:43,687 --> 01:39:46,690
+<i>na predĺženie života.</i>
+
+1028
+01:39:47,190 --> 01:39:50,193
+<i>Urobím pre seba a posádku všetko.</i>
+
+1029
+01:39:50,527 --> 01:39:52,988
+<i>Federácia na nás kašle.</i>
+
+1030
+01:39:58,618 --> 01:40:02,956
+<i>Už ma asi nikdy neuvidíte. Ale ak áno,</i>
+
+1031
+01:40:04,624 --> 01:40:05,959
+<i>buďte pripravení.</i>
+
+1032
+01:40:07,460 --> 01:40:09,379
+Prečo ešte nepoužil tú zbraň?
+
+1033
+01:40:09,629 --> 01:40:11,881
+Hľadá miesto,odkiaľ by mala najničivejší dosah.
+
+1034
+01:40:12,173 --> 01:40:13,883
+Rozvodnú sústavu.
+
+1035
+01:40:15,260 --> 01:40:17,262
+-Musí tu byť cirkulácia vzduchu, však?-Áno, pane.
+
+1036
+01:40:17,429 --> 01:40:19,431
+V jadre je regulátor atmosféry.
+
+1037
+01:40:19,597 --> 01:40:23,101
+Poručíčka, spojte sa s Yorktownom.Nech ho uzavrú, kým nenájdeme Kralla.
+
+1038
+01:40:23,309 --> 01:40:24,769
+Ako sa dostane k jadru?
+
+1039
+01:40:24,978 --> 01:40:29,315
+Na gravitačnom uzle staniceje veža údržby. Jedine tade.
+
+1040
+01:40:29,482 --> 01:40:31,526
+Scotty, choďte tam.Postarajte sa, aby to uzavreli.
+
+1041
+01:40:31,985 --> 01:40:33,236
+Dievča, za mnou.
+
+1042
+01:40:46,249 --> 01:40:48,501
+Toto sa nedá uzavrieť.
+
+1043
+01:40:48,835 --> 01:40:50,86
+No,
+
+1044
+01:40:52,5 --> 01:40:53,673
+tak sa na to pozrime.
+
+1045
+01:41:01,14 --> 01:41:02,849
+Pán Scott, prečo to stále beží?
+
+1046
+01:41:03,58 --> 01:41:07,562
+Robíme na tom, ale je tukopa bezpečnostných protokolov,
+
+1047
+01:41:07,729 --> 01:41:09,856
+<i>-... kvôli udržaniu života.</i>-Musíte niečo vymyslieť.
+
+1048
+01:41:10,23 --> 01:41:14,694
+<i>Dajte pozor, kapitán.Pri jadre bude gravitácia blbnúť.</i>
+
+1049
+01:41:14,903 --> 01:41:17,489
+Prejdeme operačné schémy,či nenájdeme zadné dvierka.
+
+1050
+01:41:17,614 --> 01:41:19,699
+Dievča, potrebujem tvoje oči.
+
+1051
+01:41:28,875 --> 01:41:30,210
+Prestaňte!
+
+1052
+01:41:36,716 --> 01:41:38,718
+Čo sa to s vami stalo,
+
+1053
+01:41:39,260 --> 01:41:40,595
+Edison?
+
+1054
+01:41:42,13 --> 01:41:43,348
+Edison.
+
+1055
+01:41:46,518 --> 01:41:48,937
+Musím povedať, Kirk,
+
+1056
+01:41:50,188 --> 01:41:52,857
+chýbalo mi byť sám sebou.
+
+1057
+01:41:54,67 --> 01:41:56,402
+Stratili sme samých seba,
+
+1058
+01:41:56,569 --> 01:41:58,196
+ale získali sme zmysel!
+
+1059
+01:41:59,72 --> 01:42:01,533
+Prostriedok, aby galaxia znova
+
+1060
+01:42:01,699 --> 01:42:05,703
+rozpútala boj, v ktorom je ľudstvo silné.
+
+1061
+01:42:06,79 --> 01:42:07,872
+Podceňujete ľudstvo!
+
+1062
+01:42:08,39 --> 01:42:10,83
+Bojoval som za ľudstvo!
+
+1063
+01:42:10,416 --> 01:42:14,879
+Milióny padli v xindskýcha romulanských vojnách.
+
+1064
+01:42:15,213 --> 01:42:16,589
+A za čo?
+
+1065
+01:42:16,923 --> 01:42:20,260
+Aby ma Federácia posadilado kapitánskeho kresla,
+
+1066
+01:42:20,552 --> 01:42:23,429
+aby som žil v mieri s nepriateľom.
+
+1067
+01:42:23,763 --> 01:42:25,932
+Meníme sa. Musíme.
+
+1068
+01:42:27,225 --> 01:42:30,436
+Inak budeme celý životbojovať stále v tých istých bitkách.
+
+1069
+01:43:06,681 --> 01:43:08,16
+Prehrali ste!
+
+1070
+01:43:08,600 --> 01:43:10,268
+Nikdy sa k nemu nedostanete.
+
+1071
+01:43:13,771 --> 01:43:15,148
+Vzdajte to.
+
+1072
+01:43:16,107 --> 01:43:18,26
+Ako vy?
+
+1073
+01:43:20,111 --> 01:43:22,280
+Čítal som váš lodný denník,
+
+1074
+01:43:22,530 --> 01:43:24,532
+kapitán James T. Kirk.
+
+1075
+01:43:24,866 --> 01:43:26,284
+Ja aspoň viem, kto som.
+
+1076
+01:43:27,869 --> 01:43:29,704
+Som vojak.
+
+1077
+01:43:29,913 --> 01:43:31,956
+Vyhrali ste vojnu, Edison.
+
+1078
+01:43:32,957 --> 01:43:33,666
+Dali ste nám mier.
+
+1079
+01:43:35,126 --> 01:43:36,461
+Mier,
+
+1080
+01:43:37,462 --> 01:43:39,672
+nenarodil som sa v mieri.
+
+1081
+01:43:43,301 --> 01:43:44,10
+Scotty.
+
+1082
+01:43:44,302 --> 01:43:48,306
+<i>Využíva gravitačný prúd,aby sa dostal späť k jadru.</i>
+
+1083
+01:44:30,265 --> 01:44:31,766
+Nie! Nie!
+
+1084
+01:44:40,858 --> 01:44:42,777
+-Čo to je?-Zbraň v komore.
+
+1085
+01:44:42,944 --> 01:44:46,406
+Kapitán, musíme zastaviť procesor,inak všetko živé na Yorktowne zahynie!
+
+1086
+01:44:56,207 --> 01:44:57,834
+Nemôžete to zastaviť.
+
+1087
+01:45:00,253 --> 01:45:01,879
+Zomriete.
+
+1088
+01:45:02,797 --> 01:45:04,882
+Radšej zomriem pri záchrane života,
+
+1089
+01:45:05,466 --> 01:45:07,552
+než by som žil a ničil ho.
+
+1090
+01:45:08,636 --> 01:45:10,638
+Do takého sveta som sa narodil ja.
+
+1091
+01:45:12,307 --> 01:45:16,769
+<i>Je tam utesnený príklop,môžete vypustiť zbraň do vesmíru.</i>
+
+1092
+01:45:16,936 --> 01:45:20,440
+My tu deaktivujeme zámky,ale vy musíte odistiť príklop.
+
+1093
+01:45:20,606 --> 01:45:22,442
+-Takže len stlačím gombík.<i>-Nie je tam gombík.</i>
+
+1094
+01:45:22,734 --> 01:45:24,861
+<i>Ale strieborná pákapod bielym panelom.</i>
+
+1095
+01:45:26,70 --> 01:45:27,739
+-Mám ju!<i>-A sú štyri.</i>
+
+1096
+01:45:28,948 --> 01:45:31,743
+<i>Keď odistíte poklop,ihneď opustite komoru.</i>
+
+1097
+01:45:31,909 --> 01:45:35,747
+<i>Ak sa spustí cyklus pri otvorenompoklope, vtiahne vás to do vesmíru.</i>
+
+1098
+01:45:36,80 --> 01:45:37,623
+A ak nebude otvorený?
+
+1099
+01:45:37,957 --> 01:45:39,584
+Vtiahne vás do obrovského ventilátora.
+
+1100
+01:45:39,751 --> 01:45:42,86
+<i>Aj so zbraňou a je po nás.</i>
+
+1101
+01:45:43,629 --> 01:45:45,631
+Dofrasa, Jim, to nestihneš.
+
+1102
+01:45:55,433 --> 01:45:56,392
+Otvára sa!
+
+1103
+01:45:58,353 --> 01:46:00,355
+<i>Vypadni odtiaľ, James T.!</i>
+
+1104
+01:46:01,22 --> 01:46:02,982
+Scotty, posledný panel sa nedá otvoriť!
+
+1105
+01:46:09,947 --> 01:46:10,782
+Scotty!
+
+1106
+01:46:10,948 --> 01:46:14,285
+Rýchlo, už nie je čas. To nezvládne.
+
+1107
+01:46:45,817 --> 01:46:46,901
+Nie! Nie!
+
+1108
+01:46:50,822 --> 01:46:52,824
+<i>Prechod na ručné ovládanie.</i>
+
+1109
+01:47:22,437 --> 01:47:23,438
+Juchú!
+
+1110
+01:47:28,359 --> 01:47:29,902
+Čo by som si bez vás počal, Spock?
+
+1111
+01:48:00,600 --> 01:48:02,768
+BALTHAZAR EDISONPRÍPAD UZAVRETÝ
+
+1112
+01:48:02,935 --> 01:48:06,105
+Štyri desaťročia nás Federácia učila,že bol hrdina.
+
+1113
+01:48:06,439 --> 01:48:08,774
+Čas je najlepší sudca.
+
+1114
+01:48:10,443 --> 01:48:12,111
+Bol iba stratený.
+
+1115
+01:48:12,445 --> 01:48:14,238
+Zachránili ste celú základňu, Kirk.
+
+1116
+01:48:15,907 --> 01:48:18,743
+Milióny životov. Ďakujem vám.
+
+1117
+01:48:19,76 --> 01:48:22,79
+Nielen ja. Nikdy nie sám.
+
+1118
+01:48:22,413 --> 01:48:26,918
+Azda netreba ani dodať,že post viceadmirála je váš.
+
+1119
+01:48:27,168 --> 01:48:28,920
+Nikto si ho nezaslúži viac.
+
+1120
+01:48:32,507 --> 01:48:34,675
+Viceadmiráli nelietajú, však?
+
+1121
+01:48:35,968 --> 01:48:38,137
+Nie. Nelietajú.
+
+1122
+01:48:40,598 --> 01:48:42,600
+Bez urážky, madam, ale
+
+1123
+01:48:43,976 --> 01:48:45,770
+nie je to nuda?
+
+1124
+01:48:58,491 --> 01:49:00,868
+MAJETOK VEĽVYSLANCA SPOCKA
+
+1125
+01:49:47,707 --> 01:49:50,1
+Ani si sa nepokúsil nám to tu skrátiť?
+
+1126
+01:49:50,209 --> 01:49:53,838
+Načo skrátiť? Kostra,veď už sa orientujeme v hmlovine.
+
+1127
+01:49:54,171 --> 01:49:55,506
+Predstav si, čo tam nájdeme!
+
+1128
+01:49:55,673 --> 01:50:00,344
+Despotov, čo nás chcú vykántriť?Smrtiace vesmírne vírusy a baktérie?
+
+1129
+01:50:00,595 --> 01:50:04,265
+Nepochopiteľné kozmické anomálie,čo nás v sekunde vyhladia!
+
+1130
+01:50:04,557 --> 01:50:06,225
+Bude to zábava.
+
+1131
+01:50:08,60 --> 01:50:10,730
+Kam ideme? Nemali sme ísť na drink?
+
+1132
+01:50:10,896 --> 01:50:13,357
+Viem, že som mal čušať, ale...
+
+1133
+01:50:13,524 --> 01:50:15,234
+Všetko najlepšie!
+
+1134
+01:50:17,903 --> 01:50:19,572
+Pán Citlivý, čo?
+
+1135
+01:50:20,364 --> 01:50:22,74
+-Tu máte, chlapče.-Vďaka, Scotty.
+
+1136
+01:50:23,409 --> 01:50:24,368
+A teraz
+
+1137
+01:50:24,535 --> 01:50:26,996
+pozdvihnime pohárena kapitána Jamesa T. Kirka.
+
+1138
+01:50:27,872 --> 01:50:29,915
+-Kapitán Kirk!-Ďakujem vám.
+
+1139
+01:50:31,83 --> 01:50:32,710
+Na <i>Enterprise.</i>
+
+1140
+01:50:33,711 --> 01:50:35,46
+A...
+
+1141
+01:50:35,713 --> 01:50:37,381
+... na zosnulých priateľov.
+
+1142
+01:50:38,90 --> 01:50:39,884
+-Pripíjam.-Na zdravie.
+
+1143
+01:50:41,260 --> 01:50:44,597
+Dobre, oslavujme. Kto je na rade?
+
+1144
+01:50:44,930 --> 01:50:48,434
+Môžem poprosiť tri romulánske pivá?
+
+1145
+01:50:49,60 --> 01:50:51,604
+Myslela som, že musíšdokončiť správu z misie.
+
+1146
+01:50:52,271 --> 01:50:53,439
+Musím.
+
+1147
+01:50:53,731 --> 01:50:57,234
+Ale dal som prednosťspoločenskému vyžitiu s tebou.
+
+1148
+01:50:59,70 --> 01:51:00,571
+Ty si ale romantik.
+
+1149
+01:51:08,788 --> 01:51:13,626
+Vedeli ste, že škótsku whiskyvymyslela jedna stará Ruska?
+
+1150
+01:51:18,130 --> 01:51:21,467
+To si všetko vypila sama? Žasnem.
+
+1151
+01:51:21,759 --> 01:51:23,969
+Vraj zo mňa opadne napätie.
+
+1152
+01:51:24,595 --> 01:51:26,263
+Nič neopadlo.
+
+1153
+01:51:26,597 --> 01:51:28,641
+No, možno pomôže toto.
+
+1154
+01:51:29,809 --> 01:51:31,936
+Kapitán zaťahal za pár nitiek.
+
+1155
+01:51:32,269 --> 01:51:35,606
+Prijali ťa na akadémiuHviezdnej flotily, ak chceš.
+
+1156
+01:51:35,940 --> 01:51:38,776
+Majú kopu pravidiel.Niektoré môžeš porušiť.
+
+1157
+01:51:38,943 --> 01:51:41,195
+Budem musieť nosiť tú uniformu?
+
+1158
+01:51:42,196 --> 01:51:43,531
+Bohužiaľ áno.
+
+1159
+01:51:45,950 --> 01:51:46,951
+Hej, Keenser.
+
+1160
+01:51:47,284 --> 01:51:49,787
+Kevin. Stále bez gatí, ako vidím.
+
+1161
+01:51:56,377 --> 01:51:58,462
+Počul som o veľvyslancovi Spockovi.
+
+1162
+01:52:00,214 --> 01:52:03,634
+To ste mi chceli povedaťvtedy v turbo výťahu?
+
+1163
+01:52:06,554 --> 01:52:07,972
+Viac menej.
+
+1164
+01:52:10,141 --> 01:52:13,227
+Verím, že schôdzkas komandérkou Paris dopadla dobre.
+
+1165
+01:52:16,564 --> 01:52:17,982
+Viac menej.
+
+1166
+01:52:25,656 --> 01:52:28,159
+Naozaj chceš ísť znova preč, čo?
+
+1167
+01:52:54,894 --> 01:52:57,897
+<i>Vesmír... konečná hranica.</i>
+
+1168
+01:52:59,64 --> 01:53:01,192
+<i>Toto sú lety vesmírnej lode...</i>
+
+1169
+01:53:01,358 --> 01:53:04,361
+Enterprise. <i>Má trvalé poslanie:</i>
+
+1170
+01:53:04,695 --> 01:53:06,906
+<i>skúmať cudzie nové svety.</i>
+
+1171
+01:53:07,72 --> 01:53:08,741
+<i>Hľadať nové formy života</i>
+
+1172
+01:53:08,908 --> 01:53:10,743
+<i>a nové civilizácie.</i>
+
+1173
+01:53:11,35 --> 01:53:14,580
+<i>ĺsť neohrozene tam,kam sa ešte nikto nevydal.</i>
+
+1174
+01:55:22,666 --> 01:55:25,2
+STAR TREKDO NEZNÁMA
+
+1175
+01:55:32,9 --> 01:55:35,54
+NA PAMIATKU LEONARDA NIMOYA
+
+1176
+01:55:37,431 --> 01:55:41,18
+PRE ANTONA
+
+1177
+02:02:18,707 --> 02:02:19,708
+Slovakian
+
+1178
+02:02:19,708 --> 02:02:23,0
+www.Titulky.com
+

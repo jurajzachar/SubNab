@@ -62,8 +62,8 @@ object Parser {
     List(seqId, time, caption).filter(_.isFailure).map(_.failed.get.getLocalizedMessage).reverse.mkString(", ")
   }
 
-  def parse(source: BufferedSource): Try[List[Entry]] = {
-    parse(source.getLines(), Success(Nil)).flatMap { validatedLines =>
+  def parse(lines: Iterator[String]): Try[List[Entry]] = {
+    parse(lines, Success(Nil)).flatMap { validatedLines =>
       val validation = validatedLines.grouped(3).toList.map(chunk => {
         val tripleXList = chunk.toHList[String :: String :: String :: HNil].get.tupled
         val times = tripleXList._2.split(" --> ")

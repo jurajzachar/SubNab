@@ -12,9 +12,9 @@ v0.1.1
 * Modify time of caption ranges using 'Time Shift' tool.
 
 ##Download
-* Windows: [.msi](https://github.com/jurajzachar/SubNab/releases/download/v0.1.0/SubNab-0.1.0.msi)
-* Mac OS X: [.dmg](https://github.com/jurajzachar/SubNab/releases/download/v0.1.0/SubNab-0.1.0.dmg)
-* Universal: [FatJar](https://github.com/jurajzachar/SubNab/releases/download/v0.1.0/SubNab-0.1.0-fat.jar)
+* Windows: [.msi](https://github.com/jurajzachar/SubNab/releases/download/v0.1.1/SubNab-0.1.1.msi)
+* Mac OS X: [.dmg](https://github.com/jurajzachar/SubNab/releases/download/v0.1.1/SubNab-0.1.1.dmg)
+* Universal: [FatJar](https://github.com/jurajzachar/SubNab/releases/download/v0.1.1/SubNab-0.1.1-fat.jar)
 
 ##Screenshot
 

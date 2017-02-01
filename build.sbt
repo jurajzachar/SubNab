@@ -2,7 +2,7 @@ import sbtassembly.AssemblyPlugin.defaultShellScript
 name := "SubNab"
 organization := "com.blueskiron"
 scalaVersion := "2.11.8"
-version      := "0.1.1-SNAPSHOT"
+version      := "0.1.2-SNAPSHOT"
 
 libraryDependencies ++= Seq(
     	"org.scalatest" %% "scalatest" % "2.2.6",
